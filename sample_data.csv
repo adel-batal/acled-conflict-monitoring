@@ -1,0 +1,3529 @@
+country,admin1,population,events,score
+Algeria,Adrar,193820,165,2
+Algeria,Ain Defla,414632,156,2
+Algeria,Tissemsilt,389560,43,1
+Algeria,Ain Temouchent,156436,93,2
+Algeria,Alger,3425472,1224,3
+Algeria,Annaba,492625,338,3
+Algeria,Batna,422603,239,3
+Algeria,Bechar,48563,78,2
+Algeria,Bejaia,539290,971,3
+Algeria,Tizi Ouzou,731143,1254,3
+Algeria,Biskra,502796,182,2
+Algeria,Blida,804584,225,3
+Algeria,Bordj Bou Arreridj,375641,221,3
+Algeria,Setif,630960,254,3
+Algeria,Bouira,432779,773,3
+Algeria,Boumerdes,717386,732,3
+Algeria,Chlef,572387,229,3
+Algeria,Constantine,598908,432,3
+Algeria,Djelfa,663603,155,2
+Algeria,El Bayadh,166009,29,1
+Algeria,El Oued,401360,69,2
+Algeria,El Tarf,265043,99,2
+Algeria,Ghardaia,249514,148,2
+Algeria,Guelma,234281,126,2
+Algeria,Illizi,14634,50,2
+Algeria,Djanet,14879,34,1
+Algeria,Ain Salah,8157,3,1
+Algeria,Jijel,286736,354,3
+Algeria,Khenchela,217572,159,2
+Algeria,Laghouat,442944,91,2
+Algeria,Mascara,301357,140,2
+Algeria,Medea,338884,190,2
+Algeria,Mila,220760,112,2
+Algeria,Mostaganem,270634,144,2
+Algeria,Msila,378754,131,2
+Algeria,Naama,68782,30,1
+Algeria,Oran,898430,536,3
+Algeria,Ouargla,353934,206,3
+Algeria,Oum El Bouaghi,341737,102,2
+Algeria,Relizane,435595,216,3
+Algeria,Saida,153387,68,2
+Algeria,Sidi Bel Abbes,420449,283,3
+Algeria,Skikda,521372,428,3
+Algeria,Souk Ahras,181029,56,2
+Algeria,Tamanrasset,28558,251,3
+Algeria,Tebessa,494860,212,3
+Algeria,Tiaret,479073,230,3
+Algeria,Tindouf,35942,142,2
+Algeria,Tipaza,372229,190,2
+Algeria,Tlemcen,461534,185,2
+Angola,Bengo,57427,90,2
+Angola,Benguela,454836,217,3
+Angola,Bie,180359,539,3
+Angola,Cabinda,867885,197,2
+Angola,Cuando Cubango,39046,177,2
+Angola,Cuanza Norte,118984,84,2
+Angola,Cuanza Sul,210805,89,2
+Angola,Cunene,16797,37,1
+Angola,Huambo,456356,442,3
+Angola,Huila,154113,178,2
+Angola,Luanda,4922206,580,3
+Angola,Lunda Norte,192076,350,3
+Angola,Lunda Sul,195378,72,2
+Angola,Malanje,178363,486,3
+Angola,Moxico,419376,116,2
+Angola,Namibe,87850,24,1
+Angola,Uige,327964,363,3
+Angola,Zaire,183380,82,2
+Benin,Alibori,294827,556,3
+Benin,Atacora,269017,447,3
+Benin,Atlantique,442749,50,2
+Benin,Borgou,481351,252,3
+Benin,Collines,216829,67,2
+Benin,Couffo,214322,25,1
+Benin,Donga,118392,57,2
+Benin,Littoral,695671,135,2
+Benin,Mono,137742,18,1
+Benin,Oueme,488053,47,1
+Benin,Plateau,205127,34,1
+Benin,Zou,350094,37,1
+Botswana,Central,111446,19,1
+Botswana,Chobe,3706,3,1
+Botswana,North East,7823,12,1
+Botswana,Kgatleng,27406,6,1
+Botswana,Kweneng,62586,22,1
+Botswana,Ngamiland,45448,5,1
+Botswana,South East,143722,81,2
+Botswana,Ngwaketsi,24038,3,1
+Burkina Faso,Boucle du Mouhoun,604962,1304,3
+Burkina Faso,Cascades,257752,388,3
+Burkina Faso,Centre,1329118,744,3
+Burkina Faso,Centre-Est,399042,696,3
+Burkina Faso,Plateau-Central,99098,43,1
+Burkina Faso,Centre-Nord,636902,1637,3
+Burkina Faso,Centre-Ouest,195484,191,2
+Burkina Faso,Centre-Sud,153873,85,2
+Burkina Faso,Est,617363,2472,3
+Burkina Faso,Hauts-Bassins,562228,448,3
+Burkina Faso,Nord,598578,1248,3
+Burkina Faso,Sahel,576720,3134,3
+Burkina Faso,Sud-Ouest,172201,238,3
+Burundi,Bubanza,284018,867,3
+Burundi,Bujumbura Mairie,750464,2413,3
+Burundi,Ruyigi,360971,552,3
+Burundi,Bujumbura Rural,494823,981,3
+Burundi,Rumonge,492514,512,3
+Burundi,Bururi,208661,292,3
+Burundi,Cankuzo,152910,236,3
+Burundi,Cibitoke,406418,939,3
+Burundi,Gitega,513385,542,3
+Burundi,Karuzi,287459,292,3
+Burundi,Kayanza,585732,445,3
+Burundi,Kirundo,544445,672,3
+Burundi,Makamba,350423,842,3
+Burundi,Muramvya,221514,317,3
+Burundi,Muyinga,559026,278,3
+Burundi,Mwaro,185259,164,2
+Burundi,Ngozi,475617,325,3
+Burundi,Rutana,231362,294,3
+Cameroon,Adamaoua,184326,56,2
+Cameroon,Centre,1539460,328,3
+Cameroon,Est,147968,68,2
+Cameroon,Extreme-Nord,1136335,5513,3
+Cameroon,Littoral,996416,288,3
+Cameroon,Nord,124987,98,2
+Cameroon,Nord-Ouest,729490,5749,3
+Cameroon,Ouest,437425,206,3
+Cameroon,Sud,106335,39,1
+Cameroon,Sud-Ouest,,3444,3
+Central African Republic,Bamingui-Bangoran,24796,198,2
+Central African Republic,Nana-Grebizi,85125,262,3
+Central African Republic,Bangui,679381,1517,3
+Central African Republic,Basse-Kotto,70006,238,3
+Central African Republic,Haute-Kotto,51040,737,3
+Central African Republic,Haut-Mbomou,59329,706,3
+Central African Republic,Kemo,56266,113,2
+Central African Republic,Lobaye,93497,124,2
+Central African Republic,Mambere-Kadei,123976,212,3
+Central African Republic,Mbomou,89207,381,3
+Central African Republic,Nana-Mambere,112223,469,3
+Central African Republic,Ombella-M'Poko,154330,346,3
+Central African Republic,Ouaka,132034,742,3
+Central African Republic,Ouham,,754,3
+Central African Republic,Ouham-Pende,235650,885,3
+Central African Republic,Sangha-Mbaere,41603,30,1
+Central African Republic,Vakaga,25305,445,3
+Chad,Barh El Gazel,29201,13,1
+Chad,Batha,35867,23,1
+Chad,Tibesti,6497,157,2
+Chad,Borkou,20735,21,1
+Chad,Ennedi Ouest,12890,32,1
+Chad,Chari Baguirmi,66732,27,1
+Chad,Ennedi Est,70519,11,1
+Chad,Guera,53671,44,1
+Chad,Hadjer-Lamis,56596,33,1
+Chad,Kanem,30235,31,1
+Chad,Lac,48434,246,3
+Chad,Logone Occidental,91884,68,2
+Chad,Logone Oriental,78994,55,2
+Chad,Mandoul,96354,31,1
+Chad,Mayo Kebbi Est,36671,29,1
+Chad,Mayo Kebbi Ouest,72803,54,2
+Chad,Moyen-Chari,124666,47,1
+Chad,Ndjamena,20151,545,3
+Chad,Ouaddai,99574,279,3
+Chad,Salamat,20204,42,1
+Chad,Sila,36180,111,2
+Chad,Tandjile,79133,27,1
+Chad,Wadi Fira,62174,98,2
+Democratic Republic of Congo,Bas-Uele,190109,423,3
+Democratic Republic of Congo,Haut-Uele,197393,1129,3
+Democratic Republic of Congo,Equateur,357006,182,2
+Democratic Republic of Congo,Haut-Katanga,1749401,829,3
+Democratic Republic of Congo,Haut-Lomami,,130,2
+Democratic Republic of Congo,Ituri,,5948,3
+Democratic Republic of Congo,Nord-Kivu,,15662,3
+Democratic Republic of Congo,Kasai,637886,222,3
+Democratic Republic of Congo,Kasai-Central,708406,411,3
+Democratic Republic of Congo,Kasai-Oriental,1928341,300,3
+Democratic Republic of Congo,Sankuru,42302,110,2
+Democratic Republic of Congo,Kinshasa,4373989,1382,3
+Democratic Republic of Congo,Kongo-Central,464252,339,3
+Democratic Republic of Congo,Kwango,61029,93,2
+Democratic Republic of Congo,Kwilu,501548,248,3
+Democratic Republic of Congo,Lomami,253108,183,2
+Democratic Republic of Congo,Lualaba,278149,144,2
+Democratic Republic of Congo,Mai-Ndombe,128324,209,3
+Democratic Republic of Congo,Maniema,422287,540,3
+Democratic Republic of Congo,Mongala,200057,59,2
+Democratic Republic of Congo,Tanganyika,,855,3
+Democratic Republic of Congo,Sud-Kivu,3045040,6381,3
+Democratic Republic of Congo,Nord-Ubangi,174394,96,2
+Democratic Republic of Congo,Sud-Ubangi,190327,204,3
+Democratic Republic of Congo,Tshopo,470561,580,3
+Democratic Republic of Congo,Tshuapa,34867,102,2
+Djibouti,Ali Sabieh,34524,10,1
+Djibouti,Dikhil,30103,14,1
+Djibouti,Djibouti,579595,143,2
+Djibouti,Obock,14258,15,1
+Djibouti,Tadjourah,47151,35,1
+Egypt,Alexandria,4900783,666,3
+Egypt,Assiut,1989210,172,2
+Egypt,Aswan,583255,130,2
+Egypt,Beheira,1506243,196,2
+Egypt,Beni Suef,1079120,114,2
+Egypt,Cairo,6490380,3027,3
+Egypt,Dakahlia,2308405,215,3
+Egypt,Damietta,634785,133,2
+Egypt,Fayoum,1471416,215,3
+Egypt,Gharbia,2067178,271,3
+Egypt,Giza,7373660,945,3
+Egypt,Ismailia,416227,165,2
+Egypt,Kafr el-Sheikh,1072597,111,2
+Egypt,Qalyubia,3137274,223,3
+Egypt,Luxor,2121182,71,2
+Egypt,Matrouh,228854,58,2
+Egypt,Menia,1974646,317,3
+Egypt,Menoufia,1368389,142,2
+Egypt,New Valley,27543,23,1
+Egypt,North Sinai,,3788,3
+Egypt,Port Said,903449,140,2
+Egypt,Qena,808833,112,2
+Egypt,Red Sea,83418,28,1
+Egypt,Sharqia,3842806,328,3
+Egypt,South Sinai,,96,2
+Egypt,Suez,552951,217,3
+Egypt,Sohag,1450685,74,2
+Equatorial Guinea,Bioko Norte,68481,53,2
+Equatorial Guinea,Bioko Sur,14997,2,1
+Equatorial Guinea,Centro Sur,14936,2,1
+Equatorial Guinea,Kie-Ntem,12615,4,1
+Equatorial Guinea,Litoral,43604,16,1
+Equatorial Guinea,Wele-Nzas,30113,3,1
+Eritrea,Anseba,13801,4,1
+Eritrea,Debub,130705,72,2
+Eritrea,Debubawi Keih Bahri,13575,41,1
+Eritrea,Gash Barka,58145,173,2
+Eritrea,Maekel,130271,86,2
+Eritrea,Semienawi Keih Bahri,41315,33,1
+eSwatini,Hhohho,69778,310,3
+eSwatini,Lubombo,50336,119,2
+eSwatini,Manzini,74694,300,3
+eSwatini,Shiselweni,33925,103,2
+Ethiopia,Addis Ababa,2106452,558,3
+Ethiopia,Oromia,6630216,5861,3
+Ethiopia,Afar,226839,402,3
+Ethiopia,Tigray,1384255,1648,3
+Ethiopia,Amhara,3231490,3935,3
+Ethiopia,Benshangul/Gumuz,120477,297,3
+Ethiopia,Gambela,163142,253,3
+Ethiopia,Dire Dawa,87927,101,2
+Ethiopia,Harari,71360,55,2
+Ethiopia,Somali,700929,1029,3
+Ethiopia,South Ethiopia Region,894617,254,3
+Ethiopia,South West,257845,61,2
+Ethiopia,Central Ethiopia,441984,141,2
+Ethiopia,Sidama,419080,99,2
+Gabon,Estuaire,212765,356,3
+Gabon,Haut-Ogooue,96346,32,1
+Gabon,Moyen-Ogooue,8056,19,1
+Gabon,Ngounie,12054,14,1
+Gabon,Nyanga,3844,13,1
+Gabon,Ogooue-Ivindo,22578,15,1
+Gabon,Ogooue-Lolo,6665,14,1
+Gabon,Ogooue-Maritime,15222,58,2
+Gabon,Woleu-Ntem,32861,16,1
+Gambia,Banjul,74315,130,2
+Gambia,Basse,62018,13,1
+Gambia,Brikama,449299,85,2
+Gambia,Janjanbureh,12172,7,1
+Gambia,Central River,2838,3,1
+Gambia,Kanifing,372018,57,2
+Gambia,Kerewan,96677,14,1
+Gambia,Mansakonko,11775,4,1
+Ghana,Ahafo,113029,34,1
+Ghana,Ashanti,3165809,455,3
+Ghana,Bono,298865,64,2
+Ghana,Bono East,133949,56,2
+Ghana,Central,1040895,236,3
+Ghana,Eastern,845892,235,3
+Ghana,Greater Accra,3055351,712,3
+Ghana,North East,127697,106,2
+Ghana,Savannah,82812,69,2
+Ghana,Northern,468695,206,3
+Ghana,Upper East,229567,189,2
+Ghana,Upper West,77459,61,2
+Ghana,Volta,380331,94,2
+Ghana,Oti,60142,35,1
+Ghana,Western,880291,140,2
+Ghana,Western North,65753,36,1
+Guinea,Boke,191278,272,3
+Guinea,Conakry,8831,1061,3
+Guinea,Faranah,155210,147,2
+Guinea,Kankan,,523,3
+Guinea,Kindia,387292,378,3
+Guinea,Labe,216440,224,3
+Guinea,Mamou,148118,133,2
+Guinea,Nzerekore,473469,359,3
+Guinea-Bissau,Bafata,9000,5,1
+Guinea-Bissau,Biombo,12567,9,1
+Guinea-Bissau,Bissau,25206,292,3
+Guinea-Bissau,Bolama,1943,1,1
+Guinea-Bissau,Cacheu,25366,33,1
+Guinea-Bissau,Gabu,26610,7,1
+Guinea-Bissau,Oio,33353,23,1
+Guinea-Bissau,Quinara,10904,9,1
+Ivory Coast,Abidjan,2879936,1189,3
+Ivory Coast,Bas-Sassandra,262734,105,2
+Ivory Coast,Montagnes,592449,378,3
+Ivory Coast,Comoe,330468,129,2
+Ivory Coast,Denguele,60251,31,1
+Ivory Coast,Goh-Djiboua,382638,135,2
+Ivory Coast,Lacs,258368,137,2
+Ivory Coast,Lagunes,410096,183,2
+Ivory Coast,Sassandra-Marahoue,460542,175,2
+Ivory Coast,Savanes,427973,151,2
+Ivory Coast,Vallee du Bandama,202249,236,3
+Ivory Coast,Woroba,88250,43,1
+Ivory Coast,Yamoussoukro,115861,59,2
+Ivory Coast,Zanzan,185396,151,2
+Kenya,Baringo,181637,439,3
+Kenya,Bomet,287533,136,2
+Kenya,Bungoma,,301,3
+Kenya,Busia,411887,230,3
+Kenya,Elgeyo Marakwet,143039,232,3
+Kenya,Embu,208391,219,3
+Kenya,Garissa,494392,553,3
+Kenya,Homa Bay,349832,290,3
+Kenya,Isiolo,54292,339,3
+Kenya,Meru,571141,379,3
+Kenya,Kajiado,203644,292,3
+Kenya,Kakamega,769450,393,3
+Kenya,Kericho,347492,188,2
+Kenya,Kiambu,955634,623,3
+Kenya,Nairobi,1675328,3006,3
+Kenya,Kilifi,439641,358,3
+Kenya,Kirinyaga,280650,225,3
+Kenya,Kisii,791567,422,3
+Kenya,Kisumu,550546,555,3
+Kenya,Kitui,120583,195,2
+Kenya,Kwale,331910,183,2
+Kenya,Laikipia,158566,323,3
+Kenya,Lamu,59221,353,3
+Kenya,Machakos,417126,352,3
+Kenya,Makueni,205906,139,2
+Kenya,Mandera,780480,611,3
+Somalia,Gedo,198621,2288,3
+Kenya,West Pokot,197385,246,3
+Kenya,Marsabit,108751,359,3
+Kenya,Samburu,82202,325,3
+Kenya,Migori,465797,359,3
+Kenya,Mombasa,1048077,699,3
+Kenya,Muranga,552277,230,3
+Kenya,Nakuru,968573,813,3
+Kenya,Nandi,292186,149,2
+Kenya,Narok,204424,348,3
+Kenya,Nyamira,299254,133,2
+Kenya,Nyandarua,156870,123,2
+Kenya,Nyeri,337470,322,3
+Kenya,Siaya,370612,262,3
+Kenya,Taita Taveta,97004,144,2
+Kenya,Tana River,78539,180,2
+Kenya,Tharaka-Nithi,134639,102,2
+Kenya,Trans Nzoia,301752,270,3
+Kenya,Turkana,,614,3
+Kenya,Uasin Gishu,432762,419,3
+Kenya,Vihiga,257456,94,2
+Kenya,Wajir,,233,3
+Uganda,Amudat,21699,19,1
+Lesotho,Berea,16888,6,1
+Lesotho,Butha-Buthe,44471,5,1
+Lesotho,Leribe,52382,10,1
+Lesotho,Mafeteng,31576,12,1
+Lesotho,Maseru,177359,199,2
+Lesotho,Mokhotlong,6483,8,1
+Lesotho,Qacha's Nek,1498,1,1
+Lesotho,Quthing,19150,4,1
+Lesotho,Thaba-Tseka,123,2,1
+Liberia,Bomi,24760,47,1
+Liberia,Bong,62570,100,2
+Liberia,Gbarpolu,13803,47,1
+Liberia,Grand Bassa,54677,88,2
+Liberia,Grand Cape Mount,48098,45,1
+Liberia,Grand Gedeh,11159,41,1
+Liberia,Grand Kru,6425,13,1
+Liberia,Lofa,76493,290,3
+Liberia,Margibi,65529,61,2
+Liberia,Maryland,63991,38,1
+Liberia,Montserrado,1079476,799,3
+Liberia,Nimba,,156,2
+Liberia,River Gee,5668,18,1
+Liberia,Rivercess,14683,18,1
+Liberia,Sinoe,31215,27,1
+Libya,East,1044300,3964,3
+Libya,West,,7549,3
+Libya,South,256483,1101,3
+Madagascar,Alaotra Mangoro,126449,102,2
+Madagascar,Vakinankaratra,324920,189,2
+Madagascar,Amoron I Mania,52808,83,2
+Madagascar,Analamanga,2259371,1361,3
+Madagascar,Analanjirofo,86027,39,1
+Madagascar,Androy,82215,111,2
+Madagascar,Betsiboka,73306,165,2
+Madagascar,Anosy,78794,211,3
+Madagascar,Atsimo Andrefana,180267,232,3
+Madagascar,Menabe,238624,205,3
+Madagascar,Atsimo Atsinanana,238438,157,2
+Madagascar,Atsinanana,53869,164,2
+Madagascar,Boeny,,208,3
+Madagascar,Bongolava,74344,114,2
+Madagascar,Diana,39593,64,2
+Madagascar,Haute Matsiatra,134071,128,2
+Madagascar,Ihorombe,43601,56,2
+Madagascar,Itasy,168167,111,2
+Madagascar,Melaky,,133,2
+Madagascar,Sava,44869,46,1
+Madagascar,Sofia,134911,133,2
+Madagascar,Vatovavy Fitovinany,74514,50,2
+Malawi,Central,1039564,651,3
+Malawi,Northern,274353,283,3
+Malawi,Southern,953461,719,3
+Mali,Koulikoro,1350249,531,3
+Mali,Bamako,64964,502,3
+Mali,Gao,,2171,3
+Mali,Menaka,37479,775,3
+Mali,Kayes,515996,346,3
+Mali,Kidal,,1083,3
+Mali,Mopti,1348268,4183,3
+Mali,Segou,1034695,1608,3
+Mali,Tombouctou,,1439,3
+Mali,Sikasso,735027,399,3
+Mauritania,Adrar,20930,30,1
+Mauritania,Assaba,25567,66,2
+Mauritania,Brakna,43612,44,1
+Mauritania,Dakhlet Nouadhibou,33017,306,3
+Mauritania,Gorgol,30524,28,1
+Mauritania,Guidimakha,49762,14,1
+Mauritania,Hodh Ech Chargi,49895,83,2
+Mauritania,Hodh El Gharbi,18732,20,1
+Mauritania,Inchiri,71,16,1
+Mauritania,Nouakchott,150030,1435,3
+Mauritania,Tagant,3661,10,1
+Mauritania,Tiris Zemmour,14725,125,2
+Mauritania,Trarza,21133,83,2
+Morocco,Beni Mellal-Khenifra,1079887,1362,3
+Morocco,Draa-Tafilalet,536831,518,3
+Morocco,Casablanca-Settat,2519935,2340,3
+Morocco,Eddakhla-Oued Eddahab,83281,150,2
+Morocco,Fes-Meknes,,1307,3
+Morocco,Guelmim-Oued Noun,142599,180,2
+Morocco,Laayoune-Sakia El Hamra,41045,366,3
+Morocco,Marrakech-Safi,1133663,1314,3
+Morocco,Oriental,851075,1931,3
+Morocco,Rabat-Sale-Kenitra,1973776,2413,3
+Morocco,Souss-Massa,1067702,1268,3
+Morocco,Tanger-Tetouan-Al Hoceima,1795333,1968,3
+Mozambique,Cabo Delgado,779548,2878,3
+Mozambique,Gaza,176468,111,2
+Mozambique,Inhambane,69561,82,2
+Mozambique,Manica,291427,141,2
+Mozambique,Maputo,346215,252,3
+Mozambique,Maputo City,112002,325,3
+Mozambique,Nampula,426060,301,3
+Mozambique,Niassa,170898,84,2
+Mozambique,Sofala,325929,360,3
+Mozambique,Tete,379403,145,2
+Mozambique,Zambezia,281574,206,3
+Namibia,Erongo,168443,151,2
+Namibia,Hardap,27433,28,1
+Namibia,Karas,45668,98,2
+Namibia,Kavango East,35642,111,2
+Namibia,Kavango West,14700,48,1
+Namibia,Khomas,335379,423,3
+Namibia,Kunene,8265,16,1
+Namibia,Ohangwena,38062,37,1
+Namibia,Omaheke,5939,24,1
+Namibia,Omusati,20540,43,1
+Namibia,Oshana,21873,80,2
+Namibia,Oshikoto,28582,28,1
+Namibia,Otjozondjupa,22062,70,2
+Namibia,Zambezi,33965,71,2
+Niger,Agadez,198327,434,3
+Niger,Diffa,,1210,3
+Niger,Dosso,338534,167,2
+Niger,Maradi,718071,421,3
+Niger,Niamey,57321,319,3
+Niger,Tahoua,,348,3
+Niger,Tillaberi,,1982,3
+Niger,Zinder,164369,68,2
+Nigeria,Abia,1680750,554,3
+Nigeria,Adamawa,1340779,737,3
+Nigeria,Borno,3059579,6115,3
+Nigeria,Akwa Ibom,1996317,505,3
+Nigeria,Anambra,3054119,1261,3
+Nigeria,Bauchi,941931,433,3
+Nigeria,Bayelsa,1461365,886,3
+Nigeria,Benue,1642196,1527,3
+Nigeria,Cross River,1376118,621,3
+Nigeria,Delta,3400314,1902,3
+Nigeria,Ebonyi,1216016,515,3
+Nigeria,Edo,2162897,1098,3
+Nigeria,Ekiti,1871260,423,3
+Nigeria,Enugu,2142570,784,3
+Nigeria,Federal Capital Territory,2602982,2089,3
+Nigeria,Gombe,541942,183,2
+Nigeria,Yobe,495351,700,3
+Nigeria,Imo,2736712,988,3
+Nigeria,Jigawa,843671,185,2
+Nigeria,Kaduna,3093367,2535,3
+Nigeria,Katsina,2447603,1764,3
+Nigeria,Kano,3484813,554,3
+Nigeria,Oyo,3211535,842,3
+Nigeria,Zamfara,1592890,2006,3
+Nigeria,Kebbi,789450,205,3
+Nigeria,Sokoto,1606594,751,3
+Nigeria,Kogi,1502352,662,3
+Nigeria,Kwara,1050375,515,3
+Nigeria,Lagos,,2285,3
+Nigeria,Nassarawa,677456,601,3
+Nigeria,Niger,1185200,1184,3
+Nigeria,Ogun,3074181,918,3
+Nigeria,Ondo,1755790,814,3
+Nigeria,Osun,1924176,812,3
+Nigeria,Plateau,1314564,1571,3
+Nigeria,Rivers,,1615,3
+Nigeria,Taraba,705628,795,3
+Republic of Congo,Bouenza,67887,33,1
+Republic of Congo,Brazzaville,1013125,334,3
+Republic of Congo,Cuvette,21135,10,1
+Republic of Congo,Kouilou,14254,7,1
+Republic of Congo,Lekoumou,52461,7,1
+Republic of Congo,Likouala,33125,6,1
+Republic of Congo,Niari,58614,37,1
+Republic of Congo,Plateaux,9115,16,1
+Republic of Congo,Pointe-Noire,146302,34,1
+Republic of Congo,Pool,1908,60,2
+Republic of Congo,Sangha,40544,4,1
+Rwanda,East,400068,57,2
+Rwanda,Kigali City,969024,214,3
+Rwanda,North,518602,156,2
+Rwanda,South,755729,144,2
+Rwanda,West,840758,275,3
+Senegal,Dakar,3327230,763,3
+Senegal,Diourbel,451696,68,2
+Senegal,Fatick,71542,24,1
+Senegal,Kaffrine,26169,16,1
+Senegal,Kaolack,128037,54,2
+Senegal,Kedougou,29018,35,1
+Senegal,Kolda,208317,102,2
+Senegal,Louga,162391,53,2
+Senegal,Matam,85540,37,1
+Senegal,Saint Louis,186333,109,2
+Senegal,Sedhiou,161747,209,3
+Senegal,Tambacounda,87624,45,1
+Senegal,Thies,629866,186,2
+Senegal,Ziguinchor,385153,466,3
+Sierra Leone,Eastern,684579,1269,3
+Sierra Leone,Southern,689378,718,3
+Sierra Leone,Northwestern,511753,1112,3
+Sierra Leone,Northern,477749,1209,3
+Sierra Leone,Western,,684,3
+Somalia,Awdal,278870,271,3
+Somalia,Bakool,228622,1624,3
+Somalia,Banadir,1889019,12643,3
+Somalia,Bari,,2184,3
+Somalia,Bay,495536,4105,3
+Somalia,Galgaduud,155833,2090,3
+Somalia,Hiraan,,3536,3
+Somalia,Lower Juba,487419,4647,3
+Somalia,Lower Shabelle,843306,9478,3
+Somalia,Middle Juba,164898,601,3
+Somalia,Middle Shabelle,352226,3017,3
+Somalia,Mudug,,1944,3
+Somalia,Nugaal,70045,530,3
+Somalia,Sanaag,,663,3
+Somalia,Sool,85535,888,3
+Somalia,Togdheer,121460,698,3
+Somalia,Woqooyi Galbeed,442890,680,3
+South Africa,Eastern Cape,2178732,3344,3
+South Africa,Free State,886458,526,3
+South Africa,Gauteng,8425785,6646,3
+South Africa,KwaZulu-Natal,3284910,4439,3
+South Africa,Limpopo,1311204,1385,3
+South Africa,Mpumalanga,1465672,1012,3
+South Africa,Northern Cape,386497,521,3
+South Africa,North West,1331835,978,3
+South Africa,Western Cape,4482711,4918,3
+South Sudan,Central Equatoria,583954,2936,3
+South Sudan,Eastern Equatoria,1684518,1258,3
+South Sudan,Jonglei,477363,2953,3
+South Sudan,Lakes,,1816,3
+South Sudan,Northern Bahr el Ghazal,73605,269,3
+South Sudan,Unity,277009,1722,3
+South Sudan,Upper Nile,348188,1673,3
+South Sudan,Warrap,168348,1606,3
+South Sudan,Western Bahr el Ghazal,72839,683,3
+South Sudan,Western Equatoria,230083,1055,3
+Sudan,Abyei,,588,3
+Sudan,Bahr el Ghazal,52149,351,3
+Sudan,South Darfur,999490,3129,3
+Sudan,Blue Nile,364093,723,3
+Sudan,Central Darfur,108478,2097,3
+Sudan,West Darfur,292402,1542,3
+Sudan,East Darfur,372699,609,3
+Sudan,Al Jazirah,1071835,1695,3
+Sudan,Equatoria,288345,814,3
+Sudan,Gedaref,374466,617,3
+Sudan,Kassala,338594,588,3
+Sudan,Khartoum,,9478,3
+Sudan,North Kordofan,196997,1109,3
+Sudan,North Darfur,1031956,5397,3
+Sudan,Northern,195901,447,3
+Sudan,Red Sea,460341,713,3
+Sudan,River Nile,234782,492,3
+Sudan,Sennar,213327,554,3
+Sudan,South Kordofan,207270,2012,3
+Sudan,West Kordofan,154858,1021,3
+Sudan,Upper Nile,153278,487,3
+Sudan,White Nile,614056,514,3
+Tanzania,Arusha,,112,2
+Tanzania,Dar es Salaam,3138668,274,3
+Tanzania,Dodoma,115516,37,1
+Tanzania,Geita,177344,36,1
+Tanzania,Iringa,188203,22,1
+Tanzania,Kagera,343679,35,1
+Tanzania,Kaskazini Pemba,149219,37,1
+Tanzania,Kaskazini Unguja,157645,17,1
+Tanzania,Katavi,17909,8,1
+Tanzania,Kigoma,357914,145,2
+Tanzania,Kilimanjaro,144829,25,1
+Tanzania,Kusini Pemba,108118,19,1
+Tanzania,Kusini Unguja,48409,50,2
+Tanzania,Lindi,39652,11,1
+Tanzania,Manyara,47704,15,1
+Tanzania,Mara,178031,69,2
+Tanzania,Mbeya,351155,36,1
+Tanzania,Mjini Magharibi,666768,66,2
+Tanzania,Morogoro,391586,38,1
+Tanzania,Mtwara,142792,39,1
+Tanzania,Mwanza,115114,50,2
+Tanzania,Njombe,8365,13,1
+Tanzania,Pwani,87280,45,1
+Tanzania,Rukwa,54766,15,1
+Tanzania,Ruvuma,112621,20,1
+Tanzania,Shinyanga,109113,17,1
+Tanzania,Simiyu,54343,5,1
+Tanzania,Singida,56535,13,1
+Tanzania,Songwe,112714,16,1
+Tanzania,Tabora,84931,11,1
+Tanzania,Tanga,109816,22,1
+Togo,Centrale,113771,34,1
+Togo,Kara,191381,39,1
+Togo,Maritime,1730945,393,3
+Togo,Plateaux,236852,32,1
+Togo,Savanes,211661,112,2
+Tunisia,Ariana,642609,129,2
+Tunisia,Beja,188028,303,3
+Tunisia,Ben Arous,581809,77,2
+Tunisia,Bizerte,334342,375,3
+Tunisia,Gabes,193313,294,3
+Tunisia,Gafsa,211659,867,3
+Tunisia,Jendouba,195225,399,3
+Tunisia,Kairouan,236778,724,3
+Tunisia,Siliana,136902,253,3
+Tunisia,Kasserine,308864,981,3
+Tunisia,Kebili,82256,361,3
+Tunisia,Kef,126630,313,3
+Tunisia,Mahdia,285415,227,3
+Tunisia,Manubah,468065,271,3
+Tunisia,Medenine,224158,519,3
+Tunisia,Monastir,513774,206,3
+Tunisia,Nabeul,713638,376,3
+Tunisia,Sfax,,718,3
+Tunisia,Sidi Bouzid,275054,803,3
+Tunisia,Sousse,669172,440,3
+Tunisia,Tataouine,63306,399,3
+Tunisia,Tozeur,56730,230,3
+Tunisia,Tunis,,2270,3
+Tunisia,Zaghouan,93787,62,2
+Uganda,Abim,49279,41,1
+Uganda,Adjumani,48382,130,2
+Uganda,Agago,85747,292,3
+Uganda,Alebtong,42027,35,1
+Uganda,Amolatar,30663,16,1
+Uganda,Amuria,82031,79,2
+Uganda,Kapelebyong,30719,55,2
+Uganda,Amuru,101776,206,3
+Uganda,Apac,57997,49,1
+Uganda,Arua,377609,148,2
+Uganda,Madi Okollo,37273,12,1
+Uganda,Budaka,54532,13,1
+Uganda,Manafwa,122699,18,1
+Uganda,Bududa,123643,40,1
+Uganda,Bugiri,113589,27,1
+Uganda,Namayingo,,10,1
+Uganda,Buhweju,24308,5,1
+Uganda,Buikwe,251698,47,1
+Uganda,Bukedea,93357,20,1
+Uganda,Bukomansimbi,73234,20,1
+Uganda,Bukwo,64187,35,1
+Uganda,Bulambuli,129435,24,1
+Uganda,Buliisa,70696,19,1
+Uganda,Masindi,63018,44,1
+Uganda,Bundibugyo,139829,170,2
+Uganda,Rukiga,103662,18,1
+Uganda,Bushenyi,95097,37,1
+Uganda,Busia,208355,70,2
+Uganda,Butaleja,50142,26,1
+Uganda,Butambala,13251,10,1
+Uganda,Buvuma,38029,4,1
+Uganda,Buyende,67250,16,1
+Uganda,Dokolo,56911,18,1
+Uganda,Gomba,40712,12,1
+Uganda,Gulu,159884,476,3
+Uganda,Hoima,155343,140,2
+Uganda,Kikuube,66639,62,2
+Uganda,Ibanda,42148,21,1
+Uganda,Bugweri,53686,13,1
+Uganda,Iganga,132197,43,1
+Uganda,Isingiro,141332,29,1
+Uganda,Jinja,308352,190,2
+Uganda,Kaabong,28300,110,2
+Uganda,Karenga,7386,26,1
+Uganda,Kabale,84847,133,2
+Uganda,Kabarole,190991,108,2
+Uganda,Kaberamaido,24652,13,1
+Uganda,Kalaki,31559,19,1
+Uganda,Kagadi,50693,20,1
+Uganda,Kakumiro,79952,22,1
+Uganda,Kalangala,37831,16,1
+Uganda,Kaliro,58907,13,1
+Uganda,Kalungu,55384,26,1
+Uganda,Kampala,1563212,1280,3
+Uganda,Wakiso,1762174,346,3
+Uganda,Kamuli,193352,30,1
+Uganda,Kamwenge,53319,8,1
+Uganda,Kitagwenda,21829,6,1
+Uganda,Kanungu,95767,39,1
+Uganda,Kapchorwa,88374,17,1
+Uganda,Kasese,312972,232,3
+Uganda,Katakwi,61688,91,2
+Uganda,Kayunga,58506,43,1
+Uganda,Kibaale,26342,23,1
+Uganda,Kyankwanzi,43421,16,1
+Uganda,Kiboga,11764,11,1
+Uganda,Kazo,17842,4,1
+Uganda,Kiruhura,4414,5,1
+Uganda,Kiryandongo,42923,26,1
+Uganda,Kisoro,124323,110,2
+Uganda,Kitgum,86188,421,3
+Uganda,Koboko,94536,42,1
+Uganda,Kole,54139,28,1
+Uganda,Kotido,91335,201,3
+Uganda,Kumi,59316,15,1
+Uganda,Kwania,61065,12,1
+Uganda,Kween,31898,44,1
+Uganda,Kyegegwa,59324,9,1
+Uganda,Kyenjojo,41281,13,1
+Uganda,Kyotera,83076,28,1
+Uganda,Lamwo,46318,156,2
+Uganda,Lira,137822,210,3
+Uganda,Luuka,73578,8,1
+Uganda,Luwero,173337,105,2
+Uganda,Lwengo,41839,32,1
+Uganda,Lyantonde,30380,8,1
+Uganda,Maracha,95029,8,1
+Uganda,Masaka,119717,114,2
+Uganda,Mayuge,149168,27,1
+Uganda,Mbale,296486,114,2
+Uganda,Mbarara,154898,98,2
+Uganda,Rwampara,38637,7,1
+Uganda,Mitooma,16570,7,1
+Uganda,Mityana,120632,43,1
+Uganda,Moroto,44529,251,3
+Uganda,Obongi,14707,10,1
+Uganda,Moyo,43840,49,1
+Uganda,Mpigi,60616,39,1
+Uganda,Mubende,111269,20,1
+Uganda,Kassanda,29050,17,1
+Uganda,Mukono,347180,132,2
+Uganda,Nakapiripirit,18572,91,2
+Uganda,Nabilatuk,12358,46,1
+Uganda,Nakaseke,62514,45,1
+Uganda,Nakasongola,35330,20,1
+Uganda,Namisindwa,66628,13,1
+Uganda,Namutumba,24451,5,1
+Uganda,Napak,32187,73,2
+Uganda,Nebbi,85595,23,1
+Uganda,Ngora,46872,6,1
+Uganda,Ntoroko,,27,1
+Uganda,Ntungamo,138853,36,1
+Uganda,Nwoya,50047,136,2
+Uganda,Pakwach,60123,17,1
+Uganda,Omoro,51320,108,2
+Uganda,Otuke,16937,53,2
+Uganda,Oyam,105668,47,1
+Uganda,Pader,39660,175,2
+Uganda,Rakai,41819,24,1
+Uganda,Rubanda,84971,33,1
+Uganda,Rubirizi,49174,9,1
+Uganda,Bunyangabu,49084,23,1
+Uganda,Rukungiri,,52,2
+Uganda,Serere,45178,11,1
+Uganda,Sheema,49692,18,1
+Uganda,Sironko,190834,28,1
+Uganda,Soroti,122397,89,2
+Uganda,Ssembabule,58806,39,1
+Uganda,Tororo,136892,50,2
+Uganda,Yumbe,118566,49,1
+Uganda,Zombo,96988,22,1
+Zambia,Central,406972,109,2
+Zambia,Muchinga,97835,61,2
+Zambia,Copperbelt,791869,376,3
+Zambia,Eastern,188806,52,2
+Zambia,Luapula,403910,39,1
+Zambia,Lusaka,1352266,627,3
+Zambia,Northern,217563,58,2
+Zambia,North-Western,65166,84,2
+Zambia,Southern,258646,104,2
+Zambia,Western,98449,62,2
+Zimbabwe,Bulawayo,281280,457,3
+Zimbabwe,Harare,1210855,2591,3
+Zimbabwe,Manicaland,235150,695,3
+Zimbabwe,Mashonaland Central,175838,554,3
+Zimbabwe,Mashonaland East,290352,617,3
+Zimbabwe,Mashonaland West,345267,606,3
+Zimbabwe,Masvingo,120467,405,3
+Zimbabwe,Matabeleland North,64298,154,2
+Zimbabwe,Matabeleland South,67877,173,2
+Zimbabwe,Midlands,200536,481,3
+Uganda,Pallisa,22184,15,1
+Uganda,Butebo,11733,5,1
+Lesotho,Mohale's Hoek,8246,2,1
+Cape Verde,Boa Vista,9223,32,1
+Cape Verde,Brava,4885,10,1
+Cape Verde,Maio,5318,4,1
+Cape Verde,Mosteiros,17,2,1
+Cape Verde,Paul,5619,0,1
+Cape Verde,Porto Novo,3147,8,1
+Cape Verde,Praia,2968,100,2
+Cape Verde,Ribeira Brava,5834,2,1
+Cape Verde,Ribeira Grande,7539,14,1
+Cape Verde,Ribeira Grande de Santiago,4198,0,1
+Cape Verde,Sal,7583,22,1
+Cape Verde,Santa Catarina,8166,22,1
+Cape Verde,Santa Catarina do Fogo,244,1,1
+Cape Verde,Santa Cruz,7351,2,1
+Cape Verde,Sao Domingos,5013,6,1
+Cape Verde,Sao Filipe,806,10,1
+Cape Verde,Sao Miguel,3995,1,1
+Cape Verde,Sao Lourenco dos Orgaos,48071,5,1
+Cape Verde,Sao Salvador do Mundo,11578,0,1
+Cape Verde,Sao Vicente,66265,61,2
+Cape Verde,Tarrafal,18940,2,1
+Cape Verde,Tarrafal de Sao Nicolau,3173,1,1
+Mauritius,Agalega,383,5,1
+Mauritius,Flacq,70650,22,1
+Mauritius,Grand Port,61347,27,1
+Mauritius,Moka,52345,31,1
+Mauritius,Pamplemousses,102839,34,1
+Mauritius,Port Louis,70105,334,3
+Mauritius,Riviere du Rempart,91698,28,1
+Mauritius,Savanne,59435,15,1
+Mauritius,Rodriguez,33219,34,1
+Mauritius,Cargados Carajos Shoals,0,0,1
+Mauritius,Plaines Wilhems,183119,113,2
+Mauritius,Black River,131772,17,1
+Uganda,Kibuku,62369,8,1
+Comoros,Ngazidja ou Grande Comore,104766,21,1
+Comoros,Grande Comore,219117,120,2
+Comoros,Anjouan,42060,32,1
+Comoros,Moheli,157170,3,1
+Comoros,Ndzuwani ou Anjouan,22724,8,1
+Comoros,Mwali ou Moheli,62539,25,1
+Sao Tome and Principe,Lobata,1706,1,1
+Sao Tome and Principe,Lemba,21209,1,1
+Sao Tome and Principe,Cantagalo,3992,0,1
+Sao Tome and Principe,Principe,7278,2,1
+Sao Tome and Principe,Caue,1523,0,1
+Sao Tome and Principe,Agua Grande,63299,39,1
+Sao Tome and Principe,Me-Zochi,13405,1,1
+Seychelles,Baie Lazare,23090,1,1
+Seychelles,Bel Air,8487,16,1
+Seychelles,English River,5448,0,1
+Seychelles,Mont Fleuri,2557,1,1
+Seychelles,Baie Sainte-Anne,2014,1,1
+Seychelles,Roche Caiman,3489,0,1
+Guinea-Bissau,Tombali,2456,2,1
+Seychelles,Port Glaud,26,1,1
+Antigua and Barbuda,Barbuda,1601,1,1
+Antigua and Barbuda,Saint George,11708,4,1
+Antigua and Barbuda,Saint John,32648,112,2
+Antigua and Barbuda,Saint Mary,7375,3,1
+Antigua and Barbuda,Saint Paul,15634,1,1
+Antigua and Barbuda,Saint Peter,6256,2,1
+Bahamas,Bimini,,14,1
+Bahamas,Cat Island,237,1,1
+Bahamas,Central Abaco,,3,1
+Bahamas,Central Eleuthera,601,2,1
+Bahamas,City of Freeport,1457,7,1
+Bahamas,Exuma,2764,5,1
+Bahamas,New Providence,66055,84,2
+Bahamas,West Grand Bahama,6421,0,1
+Barbados,Christ Church,60103,3,1
+Barbados,Saint Andrew,914,0,1
+Barbados,Saint George,20428,0,1
+Barbados,Saint James,32205,0,1
+Barbados,Saint John,13947,0,1
+Barbados,Saint Lucy,1230,0,1
+Barbados,Saint Michael,86110,18,1
+Barbados,Saint Philip,31463,2,1
+Barbados,Saint Thomas,17637,0,1
+Belize,Belize,58060,694,3
+Belize,Cayo,69338,193,2
+Belize,Corozal,29326,53,2
+Belize,Orange Walk,21297,75,2
+Belize,Stann Creek,38637,68,2
+Belize,Toledo,8551,67,2
+Costa Rica,Alajuela,488448,359,3
+Costa Rica,Cartago,283341,129,2
+Costa Rica,Guanacaste,116421,121,2
+Costa Rica,Heredia,259073,95,2
+Costa Rica,Limon,,220,3
+Costa Rica,Puntarenas,,278,3
+Costa Rica,San Jose,1030347,1116,3
+Cuba,Artemisa,,50,2
+Cuba,Camaguey,326840,73,2
+Cuba,Ciego de Avila,56373,13,1
+Cuba,Cienfuegos,,34,1
+Cuba,Granma,238341,29,1
+Cuba,Guantanamo,117449,39,1
+Cuba,La Habana,,627,3
+Cuba,Holguin,166958,67,2
+Cuba,Isla de la Juventud,29094,9,1
+Cuba,Las Tunas,136409,19,1
+Cuba,Matanzas,288184,82,2
+Cuba,Pinar del Rio,37131,21,1
+Cuba,Santiago de Cuba,121055,128,2
+Cuba,Villa Clara,,101,2
+Dominica,Saint Andrew,4407,10,1
+Dominica,Saint David,1384,2,1
+Dominica,Saint George,36377,45,1
+Dominica,Saint John,2546,6,1
+Dominica,Saint Joseph,8133,6,1
+Dominica,Saint Mark,530,1,1
+Dominica,Saint Patrick,7248,3,1
+Dominica,Saint Paul,4579,9,1
+Dominican Republic,Azua,58866,15,1
+Dominican Republic,Bahoruco,25877,5,1
+Dominican Republic,Barahona,47279,15,1
+Dominican Republic,Dajabon,58394,73,2
+Dominican Republic,Distrito Nacional,505576,232,3
+Dominican Republic,Duarte,173610,34,1
+Dominican Republic,Elias Pina,14097,26,1
+Dominican Republic,Espaillat,144134,15,1
+Dominican Republic,Hato Mayor,24649,6,1
+Dominican Republic,Hermanas Mirabal,51183,18,1
+Dominican Republic,La Altagracia,288532,20,1
+Dominican Republic,La Romana,182506,8,1
+Dominican Republic,La Vega,57287,17,1
+Dominican Republic,Maria Trinidad Sanchez,45517,7,1
+Dominican Republic,Monsenor Nouel,91481,15,1
+Dominican Republic,Monte Cristi,,25,1
+Dominican Republic,Monte Plata,64723,5,1
+Dominican Republic,Pedernales,,38,1
+Dominican Republic,Peravia,164488,6,1
+Dominican Republic,Puerto Plata,44021,26,1
+Dominican Republic,Samana,,6,1
+Dominican Republic,San Cristobal,313385,19,1
+Dominican Republic,San Jose de Ocoa,28469,2,1
+Dominican Republic,San Juan,65844,16,1
+Dominican Republic,San Pedro de Macoris,262664,8,1
+Dominican Republic,Sanchez Ramirez,49244,17,1
+Dominican Republic,Santiago,146545,124,2
+Dominican Republic,Santiago Rodriguez,23669,4,1
+Dominican Republic,Santo Domingo,1946558,75,2
+Dominican Republic,Valverde,110045,20,1
+El Salvador,Ahuachapan,290085,216,3
+El Salvador,Cabanas,165341,72,2
+El Salvador,Chalatenango,119917,66,2
+El Salvador,Cuscatlan,185453,169,2
+El Salvador,La Libertad,545679,438,3
+El Salvador,La Paz,,237,3
+El Salvador,La Union,167841,108,2
+El Salvador,Morazan,124322,103,2
+El Salvador,San Miguel,258226,272,3
+El Salvador,San Salvador,1270366,1809,3
+El Salvador,San Vicente,120464,108,2
+El Salvador,Santa Ana,316124,283,3
+El Salvador,Sonsonate,,332,3
+El Salvador,Usulutan,,233,3
+Grenada,Carriacou,7299,0,1
+Grenada,Saint Andrew,6921,1,1
+Grenada,Saint George,29321,23,1
+Grenada,Saint John,3214,2,1
+Guatemala,Alta Verapaz,513218,326,3
+Guatemala,Baja Verapaz,239839,81,2
+Guatemala,Chimaltenango,309249,257,3
+Guatemala,Chiquimula,185871,214,3
+Guatemala,El Progreso,84687,89,2
+Guatemala,Quiche,313266,225,3
+Guatemala,Escuintla,,359,3
+Guatemala,Guatemala,1783262,4552,3
+Guatemala,Huehuetenango,365756,231,3
+Guatemala,Izabal,177626,342,3
+Guatemala,Jalapa,124125,123,2
+Guatemala,Jutiapa,182494,126,2
+Guatemala,Peten,287041,308,3
+Guatemala,Quetzaltenango,413280,431,3
+Guatemala,Retalhuleu,172569,194,2
+Guatemala,Sacatepequez,306187,163,2
+Guatemala,San Marcos,501408,270,3
+Guatemala,Santa Rosa,184085,165,2
+Guatemala,Solola,275319,268,3
+Guatemala,Suchitepequez,314089,175,2
+Guatemala,Totonicapan,189156,127,2
+Guatemala,Zacapa,101426,142,2
+Guyana,Barima-Waini,,26,1
+Guyana,Cuyuni-Mazaruni,12079,14,1
+Guyana,Demerara-Mahaica,179595,266,3
+Guyana,East Berbice-Corentyne,67916,101,2
+Guyana,Essequibo Islands-West Demerara,87050,38,1
+Guyana,Mahaica-Berbice,41245,83,2
+Guyana,Pomeroon-Supenaam,,37,1
+Guyana,Upper Demerara-Berbice,17344,48,1
+Guyana,Upper Takutu-Upper Essequibo,4838,3,1
+Haiti,Artibonite,918479,1031,3
+Haiti,Centre,266188,341,3
+Haiti,Grande-Anse,,187,2
+Haiti,Nippes,110539,189,2
+Haiti,Nord,,376,3
+Haiti,Nord-Est,146605,189,2
+Haiti,Nord-Ouest,293902,132,2
+Haiti,Ouest,,3307,3
+Haiti,Sud,263217,267,3
+Haiti,Sud-Est,,159,2
+Honduras,Atlantida,189787,653,3
+Honduras,Yoro,408585,448,3
+Honduras,Bay Islands,85147,60,2
+Honduras,Choluteca,132451,403,3
+Honduras,Colon,134650,565,3
+Honduras,Comayagua,238959,385,3
+Honduras,Copan,208549,354,3
+Honduras,Cortes,1247580,2539,3
+Honduras,El Paraiso,213261,322,3
+Honduras,Francisco Morazan,994607,3877,3
+Honduras,Gracias a Dios,,136,2
+Honduras,Intibuca,89343,84,2
+Honduras,La Paz,90920,106,2
+Honduras,Lempira,90021,104,2
+Honduras,Ocotepeque,64809,52,2
+Honduras,Olancho,153021,539,3
+Honduras,Santa Barbara,212997,251,3
+Honduras,Valle,91451,122,2
+Jamaica,Clarendon,,177,2
+Jamaica,Hanover,106672,106,2
+Jamaica,Kingston,,1157,3
+Jamaica,Manchester,96478,139,2
+Jamaica,Portland,,52,2
+Jamaica,Saint Andrew,311042,3,1
+Jamaica,Saint Ann,122339,140,2
+Jamaica,Saint Catherine,273958,541,3
+Jamaica,Saint Elizabeth,,87,2
+Jamaica,Saint James,115263,322,3
+Jamaica,Saint Mary,89974,85,2
+Jamaica,Saint Thomas,75345,49,1
+Jamaica,Trelawny,47450,66,2
+Jamaica,Westmoreland,124965,253,3
+Mexico,Aguascalientes,202686,201,3
+Mexico,Baja California,,4985,3
+Mexico,Baja California Sur,442178,778,3
+Mexico,Campeche,402131,1669,3
+Mexico,Chiapas,,2839,3
+Mexico,Oaxaca,1835698,3762,3
+Mexico,Chihuahua,897318,2527,3
+Mexico,Veracruz de Ignacio de la Llave,,7522,3
+Mexico,Coahuila de Zaragoza,749130,1516,3
+Mexico,Colima,,2105,3
+Mexico,Ciudad de Mexico,2705415,8196,3
+Mexico,Durango,,1064,3
+Mexico,Guanajuato,2886074,7073,3
+Mexico,Guerrero,,8301,3
+Mexico,Hidalgo,1850998,2648,3
+Mexico,Jalisco,,4632,3
+Mexico,Mexico,8835846,5185,3
+Mexico,Michoacan de Ocampo,,7617,3
+Mexico,Morelos,1098521,3551,3
+Mexico,Nayarit,,373,3
+Mexico,Nuevo Leon,2338138,5990,3
+Mexico,Puebla,3248032,4966,3
+Mexico,Queretaro,473738,261,3
+Mexico,Quintana Roo,,1898,3
+Mexico,San Luis Potosi,884623,1092,3
+Mexico,Sinaloa,,5631,3
+Mexico,Sonora,,2952,3
+Mexico,Tabasco,1181880,2552,3
+Mexico,Tamaulipas,775247,3033,3
+Mexico,Tlaxcala,822650,498,3
+Mexico,Yucatan,556723,994,3
+Mexico,Zacatecas,772227,2553,3
+Nicaragua,Boaco,121457,50,2
+Nicaragua,Carazo,106403,75,2
+Nicaragua,Chinandega,124815,52,2
+Nicaragua,Chontales,89584,33,1
+Nicaragua,Costa Caribe Norte,235136,98,2
+Nicaragua,Costa Caribe Sur,119688,52,2
+Nicaragua,Esteli,110421,66,2
+Nicaragua,Nueva Segovia,153351,61,2
+Nicaragua,Granada,69427,51,2
+Nicaragua,Jinotega,194818,78,2
+Nicaragua,Leon,130376,132,2
+Nicaragua,Madriz,79103,42,1
+Nicaragua,Managua,223966,811,3
+Nicaragua,Masaya,244266,154,2
+Nicaragua,Matagalpa,406426,140,2
+Nicaragua,Rio San Juan,55875,16,1
+Nicaragua,Rivas,87311,57,2
+Panama,Bocas del Toro,104867,135,2
+Panama,Chiriqui,,430,3
+Panama,Cocle,106713,152,2
+Panama,Colon,,561,3
+Panama,Darien,18284,30,1
+Panama,Embera,339,1,1
+Panama,Kuna Yala,,12,1
+Panama,Herrera,60244,163,2
+Panama,Veraguas,95701,284,3
+Panama,Los Santos,,98,2
+Panama,Ngobe Bugle,13513,20,1
+Panama,Panama,,1451,3
+Panama,Panama Oeste,377730,513,3
+Puerto Rico,Aguada,,10,1
+Puerto Rico,Aguadilla,8633,68,2
+Puerto Rico,Aguas Buenas,2762,9,1
+Puerto Rico,Aibonito,18355,13,1
+Puerto Rico,Anasco,7600,9,1
+Puerto Rico,Arecibo,5641,43,1
+Puerto Rico,Barceloneta,6039,10,1
+Puerto Rico,Barranquitas,5550,3,1
+Puerto Rico,Bayamon,111373,78,2
+Puerto Rico,Cabo Rojo,,31,1
+Puerto Rico,Caguas,75628,85,2
+Puerto Rico,Canovanas,11314,39,1
+Puerto Rico,Carolina,5527,77,2
+Puerto Rico,Moca,20179,4,1
+Puerto Rico,Catano,15627,24,1
+Puerto Rico,Cayey,30640,43,1
+Puerto Rico,Ceiba,6340,15,1
+Puerto Rico,Cidra,8783,21,1
+Puerto Rico,Coamo,5973,8,1
+Puerto Rico,Comerio,14958,7,1
+Puerto Rico,Culebra,912,4,1
+Puerto Rico,Dorado,,33,1
+Puerto Rico,Fajardo,2235,35,1
+Puerto Rico,Florida,7683,8,1
+Puerto Rico,Guayama,9170,26,1
+Puerto Rico,Guayanilla,14731,12,1
+Puerto Rico,Guaynabo,21838,56,2
+Puerto Rico,Gurabo,34314,30,1
+Puerto Rico,Hatillo,8185,7,1
+Puerto Rico,Humacao,19566,18,1
+Puerto Rico,Jayuya,9510,6,1
+Puerto Rico,Juana Diaz,16248,25,1
+Puerto Rico,Juncos,14199,16,1
+Puerto Rico,Lares,5017,1,1
+Puerto Rico,Las Piedras,29443,9,1
+Puerto Rico,Loiza,,28,1
+Puerto Rico,Luquillo,17325,15,1
+Puerto Rico,Manati,12955,30,1
+Puerto Rico,Mayaguez,,88,2
+Puerto Rico,Morovis,19349,11,1
+Puerto Rico,Naguabo,6520,10,1
+Puerto Rico,Naranjito,23813,6,1
+Puerto Rico,Orocovis,4135,9,1
+Puerto Rico,Patillas,,7,1
+Puerto Rico,Ponce,8102,95,2
+Puerto Rico,Quebradillas,26349,2,1
+Puerto Rico,Rio Grande,,23,1
+Puerto Rico,Sabana Grande,10084,4,1
+Puerto Rico,Salinas,4601,30,1
+Puerto Rico,San German,6941,14,1
+Puerto Rico,San Juan,,747,3
+Puerto Rico,San Lorenzo,26080,20,1
+Puerto Rico,San Sebastian,5099,11,1
+Puerto Rico,Santa Isabel,,14,1
+Puerto Rico,Toa Alta,5212,21,1
+Puerto Rico,Toa Baja,65746,47,1
+Puerto Rico,Trujillo Alto,79884,39,1
+Puerto Rico,Utuado,6970,8,1
+Puerto Rico,Vega Alta,9036,19,1
+Puerto Rico,Vega Baja,35820,35,1
+Puerto Rico,Vieques,,33,1
+Puerto Rico,Villalba,3137,9,1
+Puerto Rico,Yabucoa,14993,20,1
+Puerto Rico,Yauco,7193,22,1
+Saint Kitts and Nevis,Saint George Basseterre,20472,9,1
+Saint Lucia,Anse-la-Raye,211,0,1
+Saint Lucia,Castries,49006,33,1
+Saint Lucia,Dennery,9607,1,1
+Saint Lucia,Gros Islet,3262,4,1
+Saint Lucia,Vieux Fort,23677,14,1
+Saint Vincent and the Grenadines,Saint George,3032,7,1
+Suriname,Brokopondo,3439,21,1
+Suriname,Commewijne,16933,1,1
+Suriname,Coronie,11853,4,1
+Suriname,Marowijne,27140,16,1
+Suriname,Nickerie,8737,11,1
+Suriname,Para,2014,15,1
+Suriname,Paramaribo,97873,197,2
+Suriname,Sipaliwini,1462,10,1
+Suriname,Wanica,77839,7,1
+Trinidad and Tobago,Arima,20974,158,2
+Trinidad and Tobago,Tunapuna Piarco,155974,491,3
+Trinidad and Tobago,Chaguanas,93798,209,3
+Trinidad and Tobago,Couva-Tabaquite-Talparo,124236,299,3
+Trinidad and Tobago,Diego Martin,87412,237,3
+Trinidad and Tobago,Mayaro Rio Claro,,57,2
+Trinidad and Tobago,Penal-Debe,89394,167,2
+Trinidad and Tobago,Point Fortin,30933,32,1
+Trinidad and Tobago,San Juan-Laventille,128839,425,3
+Trinidad and Tobago,Port of Spain,28587,575,3
+Trinidad and Tobago,Princes Town,,160,2
+Trinidad and Tobago,San Fernando,28472,183,2
+Trinidad and Tobago,Sangre Grande,73828,161,2
+Trinidad and Tobago,Siparia,,185,2
+Trinidad and Tobago,Tobago,76248,89,2
+"Virgin Islands, U.S.",Saint Croix,34576,1,1
+"Virgin Islands, U.S.",Saint John,19,0,1
+"Virgin Islands, U.S.",Saint Thomas,37312,3,1
+Puerto Rico,Arroyo,29105,6,1
+Suriname,Saramacca,2243,4,1
+Puerto Rico,Corozal,2596,11,1
+Dominican Republic,Independencia,12976,15,1
+Saint Lucia,Soufriere,9193,4,1
+Puerto Rico,Penuelas,16193,8,1
+Puerto Rico,Ciales,4042,7,1
+Cuba,Sancti Spiritus,117007,10,1
+Bahamas,North Abaco,197,2,1
+Puerto Rico,Rincon,15143,46,1
+Puerto Rico,Isabela,22481,7,1
+Puerto Rico,Hormigueros,5442,6,1
+Cuba,Mayabeque,168579,59,2
+Grenada,Saint Mark,7332,1,1
+Grenada,Saint Patrick,2150,1,1
+Dominican Republic,El Seibo,31752,3,1
+Puerto Rico,Las Marias,2096,3,1
+Bahamas,Inagua,1033,14,1
+Bahamas,Ragged Island,20,6,1
+Puerto Rico,Lajas,10119,5,1
+Puerto Rico,Guanica,8012,10,1
+Antigua and Barbuda,Saint Philip,1745,1,1
+Saint Lucia,Micoud,3859,2,1
+Puerto Rico,Camuy,6901,3,1
+Puerto Rico,Maricao,1307,1,1
+Bahamas,North Andros,,2,1
+Bahamas,Long Island,,4,1
+Bahamas,South Andros,,1,1
+Bahamas,Hope Town,,1,1
+Puerto Rico,Adjuntas,6150,2,1
+Saint Kitts and Nevis,Saint Peter Basseterre,,1,1
+Dominica,Saint Luke,4086,1,1
+Saint Vincent and the Grenadines,Grenadines,7429,1,1
+Puerto Rico,Maunabo,4085,4,1
+Guyana,Potaro-Siparuni,4,1,1
+Indonesia,East Java,,2086,3
+Indonesia,West Java,10689930,2067,3
+Indonesia,Southeast Sulawesi,,359,3
+Indonesia,South Kalimantan,598476,235,3
+Indonesia,Bangka-Belitung,,187,2
+Indonesia,North Maluku,484219,232,3
+Philippines,Central Luzon,,1853,3
+Philippines,Calabarzon,,1701,3
+Philippines,Davao Region,,704,3
+Philippines,Caraga,1131484,522,3
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,,2146,3
+Philippines,Bicol Region,3147971,838,3
+Philippines,Cagayan Valley,1681533,474,3
+Philippines,Northern Mindanao,,633,3
+Indonesia,Highland Papua,,847,3
+Myanmar,Sagaing,,23844,3
+Myanmar,Bago-West,,1508,3
+Myanmar,Kayin,,3710,3
+Myanmar,Kachin,,6417,3
+Myanmar,Shan-North,,7422,3
+Myanmar,Magway,,7800,3
+Myanmar,Tanintharyi,,5104,3
+Myanmar,Mandalay,,8029,3
+Myanmar,Shan-South,,2395,3
+Myanmar,Rakhine,,5818,3
+Myanmar,Mon,,2904,3
+Myanmar,Ayeyarwady,1988599,1722,3
+China,Shandong,6931417,732,3
+Myanmar,Yangon,,6139,3
+Myanmar,Chin,,2502,3
+China,Fujian,6236161,415,3
+China,Heilongjiang,3410385,212,3
+China,Liaoning,4766152,327,3
+China,Gansu,1883599,146,2
+China,Inner Mongolia,1436818,189,2
+China,Henan,11080963,1062,3
+Myanmar,Kayah,,1833,3
+Australia,Queensland,868581,578,3
+New Zealand,Waikato,74390,50,2
+Papua New Guinea,Madang,,67,2
+Australia,New South Wales,,1314,3
+Australia,Victoria,535436,1009,3
+South Korea,Gyeonggi,4633721,2889,3
+South Korea,South Chungcheong,726718,867,3
+Myanmar,Bago-East,,2966,3
+Indonesia,West Nusa Tenggara,1270643,426,3
+Indonesia,West Sulawesi,460507,418,3
+Indonesia,Riau Islands,,290,3
+Indonesia,North Sumatra,2053821,1057,3
+Malaysia,Perak,,101,2
+Indonesia,East Nusa Tenggara,754272,423,3
+Indonesia,Central Java,5190338,1313,3
+Indonesia,South Sumatra,1120084,328,3
+Indonesia,West Kalimantan,,257,3
+Philippines,Eastern Visayas,1664675,533,3
+Philippines,Soccsksargen,,855,3
+Papua New Guinea,Morobe,,157,2
+Indonesia,Central Papua,,1170,3
+Indonesia,Maluku,383193,352,3
+Indonesia,South Sulawesi,,1342,3
+Indonesia,Central Sulawesi,635822,378,3
+Indonesia,Aceh,,718,3
+Japan,Osaka,1072310,892,3
+Taiwan,Penghu,30491,17,1
+Philippines,Central Visayas,3899360,1352,3
+South Korea,South Jeolla,,1067,3
+South Korea,North Jeolla,736888,1898,3
+Australia,Australian Capital Territory,38494,224,3
+China,Sichuan,6700872,624,3
+New Zealand,Marlborough,38666,9,1
+Vietnam,Nghe An,504381,35,1
+Laos,Khammouane,35062,1,1
+Indonesia,Bali,863330,189,2
+Indonesia,Yogyakarta,929178,417,3
+Indonesia,Banten,3003661,530,3
+Indonesia,West Sumatra,442663,256,3
+Philippines,Ilocos Region,2936588,460,3
+Taiwan,Taoyuan City,,279,3
+Mongolia,Omnogovi,39305,13,1
+Indonesia,Papua,308781,792,3
+South Korea,Jeju,234464,1282,3
+South Korea,South Gyeongsang,1074340,3373,3
+South Korea,North Chungcheong,448889,1764,3
+China,Jiangsu,7733056,814,3
+Indonesia,West Papua,198267,345,3
+Japan,Nara,378216,92,2
+Japan,Ishikawa,49644,59,2
+Japan,Nagano,253485,236,3
+Japan,Saitama,2389143,719,3
+Japan,Kumamoto,171713,68,2
+Japan,Hyogo,663533,170,2
+Japan,Miyazaki,252160,59,2
+Philippines,Western Visayas,,1042,3
+North Korea,Ryanggang,160893,64,2
+New Zealand,Wellington,221114,242,3
+China,Anhui,4554027,308,3
+China,Zhejiang,6237668,438,3
+China,Hunan,4272882,414,3
+China,Guangdong,,1588,3
+China,Hebei,6990659,533,3
+China,Shaanxi,4369583,726,3
+China,Yunnan,3577926,222,3
+Solomon Islands,Malaita,16953,11,1
+Thailand,Phuket,485965,60,2
+Laos,Vientiane Prefecture,413062,15,1
+Japan,Hiroshima,92515,268,3
+Japan,Tokyo,6406211,4598,3
+Japan,Yamanashi,88886,21,1
+Japan,Wakayama,255509,52,2
+South Korea,Gangwon,,1801,3
+China,Hubei,5549512,553,3
+Papua New Guinea,Enga,,201,3
+Solomon Islands,Western,,9,1
+Vietnam,Hanoi,1241628,123,2
+Indonesia,North Sulawesi,612153,219,3
+Japan,Kyoto,174705,416,3
+Japan,Kanagawa,2145994,487,3
+Taiwan,Kinmen,36172,20,1
+Samoa,Atua,5751,1,1
+China,Tianjin,1519258,111,2
+Indonesia,Bengkulu,,142,2
+Indonesia,Riau,,308,3
+Japan,Oita,45489,55,2
+Philippines,Mimaropa Region,,219,3
+Taiwan,Yunlin,184768,133,2
+China,Tibet,235167,73,2
+Papua New Guinea,Eastern Highlands,248283,54,2
+Antarctica,Antarctica,,9,1
+Indonesia,East Kalimantan,382913,408,3
+Philippines,Cordillera Administrative Region,740149,356,3
+East Timor,Cova Lima,10185,2,1
+North Korea,South Pyongan,130611,8,1
+South Korea,North Gyeongsang,,1161,3
+China,Guizhou,2922375,189,2
+Thailand,Chiang Mai,447718,371,3
+Thailand,Yala,305773,1900,3
+Cambodia,Kandal,378127,127,2
+Australia,Western Australia,355855,382,3
+Myanmar,Nay Pyi Taw,,519,3
+East Timor,Liquica,17631,2,1
+East Timor,Dili,504944,65,2
+Japan,Kagoshima,,157,2
+Australia,Tasmania,93349,184,2
+China,Hainan,,107,2
+Malaysia,Kedah,485839,31,1
+China,Jilin,2707849,235,3
+Papua New Guinea,East New Britain,90613,53,2
+China,Jiangxi,5136258,369,3
+New Zealand,Northland,32005,68,2
+Indonesia,Lampung,936282,265,3
+Taiwan,Taitung,47077,90,2
+Japan,Okinawa,476040,1120,3
+Philippines,Zamboanga Peninsula,,485,3
+South Korea,Daegu,1000073,1267,3
+New Zealand,Southland,21988,46,1
+Papua New Guinea,Chimbu,467474,26,1
+Indonesia,Gorontalo,296712,128,2
+Cambodia,Phnom Penh,1374219,1313,3
+Solomon Islands,Guadalcanal,101346,30,1
+South Korea,Ulsan,,1475,3
+Thailand,Lamphun,73403,23,1
+Japan,Yamagata,174394,23,1
+Indonesia,Southwest Papua,,449,3
+Papua New Guinea,Southern Highlands,,36,1
+Indonesia,Central Kalimantan,130420,137,2
+Japan,Hokkaido,901053,517,3
+Taiwan,Yilan,179849,87,2
+Taiwan,Chiayi,164800,76,2
+Papua New Guinea,East Sepik,,46,1
+North Korea,North Hamgyong,,53,2
+Japan,Mie,243952,94,2
+Japan,Miyagi,386304,303,3
+Malaysia,Selangor,1843552,209,3
+American Samoa,Eastern,7582,5,1
+Thailand,Mae Hong Son,13076,19,1
+Indonesia,South Papua,132404,168,2
+Taiwan,Hsinchu City,335186,94,2
+Papua New Guinea,Hela,1307358,49,1
+Papua New Guinea,Oro,6279,13,1
+Indonesia,North Kalimantan,66933,111,2
+Papua New Guinea,Western Highlands,840940,75,2
+Thailand,Narathiwat,490259,2731,3
+Thailand,Phatthalung,118887,39,1
+Japan,Yamaguchi,95580,86,2
+Papua New Guinea,Jiwaka,484757,28,1
+Papua New Guinea,Central,38123,19,1
+Indonesia,Jambi,419368,299,3
+Japan,Shiga,221176,89,2
+Malaysia,Sabah,,171,2
+Japan,Toyama,58794,37,1
+China,Xinjiang,4569948,367,3
+Vietnam,Hai Phong,299564,8,1
+China,Beijing,3963798,1070,3
+Australia,Northern Territory,32410,146,2
+Thailand,Kalasin,48944,23,1
+Japan,Fukuoka,699503,211,3
+Vanuatu,Tafea,2293,1,1
+South Korea,Incheon,,1211,3
+North Korea,Rason,101406,5,1
+North Korea,North Hwanghae,415796,35,1
+Thailand,Khon Kaen,197483,159,2
+Papua New Guinea,Sandaun,14705,6,1
+Papua New Guinea,Bougainville,37057,5,1
+China,Shanxi,3681133,248,3
+Australia,South Australia,102042,244,3
+North Korea,South Hamgyong,40869,5,1
+Thailand,Phitsanulok,116093,40,1
+Thailand,Surat Thani,166923,69,2
+Thailand,Pattani,,2809,3
+Thailand,Pathum Thani,821392,102,2
+Papua New Guinea,Gulf,35378,7,1
+Papua New Guinea,Milne Bay,22683,30,1
+Thailand,Chon Buri,847029,94,2
+Vietnam,Thai Binh,283787,5,1
+China,Guangxi,4016272,241,3
+Malaysia,Terengganu,162976,13,1
+Thailand,Nakhon Ratchasima,234493,92,2
+Japan,Kagawa,58645,40,1
+Taiwan,Changhua,457710,214,3
+Thailand,Mukdahan,47834,13,1
+Thailand,Songkhla,623588,358,3
+China,Shanghai,2972454,529,3
+North Korea,Chagang,182091,12,1
+Vietnam,Ho Chi Minh,3023682,79,2
+Thailand,Nakhon Sawan,93279,27,1
+Cambodia,Kampong Speu,88258,98,2
+Cambodia,Kampong Chhnang,38590,35,1
+Thailand,Phetchaburi,80162,29,1
+Vanuatu,Penama,164,1,1
+Malaysia,Negeri Sembilan,154769,36,1
+China,Ningxia,791088,51,2
+Malaysia,Sarawak,,108,2
+South Korea,Busan,2051355,2620,3
+Malaysia,Pahang,,38,1
+Papua New Guinea,Western,37692,16,1
+Mongolia,Govi-Altai,3993,1,1
+Japan,Aichi,1523024,347,3
+Japan,Okayama,98362,49,1
+Papua New Guinea,West New Britain,,21,1
+Thailand,Bangkok,5136429,2405,3
+South Korea,Sejong Special Autonomous City,63252,851,3
+Japan,Akita,56565,23,1
+Vietnam,Dak Lak,111241,7,1
+Japan,Shizuoka,370942,104,2
+East Timor,Viqueque,28547,4,1
+Fiji,Central,197012,39,1
+Japan,Nagasaki,174094,257,3
+Japan,Fukushima,216975,67,2
+North Korea,South Hwanghae,,8,1
+Thailand,Roi Et,37096,12,1
+Thailand,Lampang,133190,44,1
+China,Qinghai,903273,53,2
+Thailand,Ubon Ratchathani,156092,78,2
+Papua New Guinea,New Ireland,18994,11,1
+Thailand,Tak,134666,44,1
+Taiwan,Tainan City,299072,299,3
+Japan,Niigata,127714,114,2
+Samoa,Gagaifomauga,3603,1,1
+Taiwan,Miaoli,255052,88,2
+Cambodia,Mondul Kiri,17103,27,1
+Japan,Ibaraki,211691,83,2
+Malaysia,Johor,,97,2
+Vietnam,Quang Ninh,82809,14,1
+Malaysia,Malacca,121967,22,1
+Myanmar,Shan-East,239448,234,3
+Thailand,Udon Thani,136643,51,2
+Cambodia,Kratie,,48,1
+Cambodia,Battambang,,83,2
+Japan,Fukui,70586,88,2
+Japan,Gifu,204052,33,1
+Japan,Shimane,16179,33,1
+Japan,Tottori,,68,2
+Japan,Aomori,82663,53,2
+Japan,Iwate,19512,88,2
+Japan,Chiba,1157809,370,3
+Japan,Gunma,351826,70,2
+Japan,Tochigi,75738,35,1
+Japan,Saga,177577,109,2
+Japan,Ehime,108329,50,2
+Japan,Kochi,45481,44,1
+Japan,Tokushima,157663,31,1
+Mongolia,Bulgan,13438,2,1
+Mongolia,Darkhan-Uul,4116,2,1
+Mongolia,Dornod,40829,2,1
+Mongolia,Dornogovi,8093,3,1
+Mongolia,Dundgovi,119,2,1
+Mongolia,Khovd,34717,6,1
+Mongolia,Khovsgol,48195,5,1
+Mongolia,Tov,5170,10,1
+Mongolia,Ulaanbaatar,84539,696,3
+Mongolia,Uvs,30354,3,1
+North Korea,Kangwon,,14,1
+North Korea,North Pyongan,275599,28,1
+North Korea,Pyongyang,14555,181,2
+South Korea,Seoul Special City,5056565,17851,3
+South Korea,Gwangju,290595,1622,3
+South Korea,Daejeon,466541,968,3
+Taiwan,Chiayi City,18534,63,2
+Taiwan,Hsinchu,254257,114,2
+Taiwan,Hualien,66566,92,2
+Taiwan,Kaohsiung City,843860,483,3
+Taiwan,Keelung City,215539,67,2
+Taiwan,Nantou,124933,83,2
+Taiwan,New Taipei City,1179963,339,3
+Taiwan,Pingtung,332185,181,2
+Taiwan,Taichung City,309457,424,3
+Taiwan,Taipei City,1803521,3743,3
+North Korea,Nampo,358,6,1
+Mongolia,Orkhon,67304,5,1
+Mongolia,Arkhangai,13262,1,1
+Mongolia,Ovorkhangai,16352,1,1
+Mongolia,Zavkhan,14897,1,1
+Mongolia,Bayankhongor,7088,2,1
+Mongolia,Sukhbaatar,17208,1,1
+Mongolia,Selenge,26416,2,1
+Albania,Berat,74673,36,1
+Albania,Diber,71672,27,1
+Albania,Durres,277324,77,2
+Albania,Elbasan,144917,59,2
+Albania,Fier,129141,121,2
+Albania,Gjirokaster,35371,29,1
+Albania,Korce,121915,66,2
+Albania,Kukes,44995,21,1
+Albania,Lezhe,89420,59,2
+Albania,Shkoder,54975,67,2
+Kosovo,Peja,,66,2
+Albania,Tirana,811302,725,3
+Albania,Vlore,96938,78,2
+Belarus,Brest,700060,582,3
+Belarus,Gomel,547842,380,3
+Belarus,Grodno,310031,488,3
+Belarus,Minsk,698119,1137,3
+Belarus,Minsk city,783813,908,3
+Belarus,Mogilev,400014,206,3
+Belarus,Vitebsk,327576,370,3
+Bosnia and Herzegovina,Brcko,56734,15,1
+Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,732195,972,3
+Bosnia and Herzegovina,Republika Srpska,389707,432,3
+Bulgaria,Blagoevgrad,127497,213,3
+Bulgaria,Burgas,77603,247,3
+Bulgaria,Dobrich,60661,88,2
+Bulgaria,Gabrovo,50359,36,1
+Bulgaria,Haskovo,66827,110,2
+Bulgaria,Kardzhali,65419,31,1
+Bulgaria,Kyustendil,28624,83,2
+Bulgaria,Lovech,43464,49,1
+Bulgaria,Montana,45735,51,2
+Bulgaria,Pazardzhik,77474,87,2
+Bulgaria,Pernik,38564,80,2
+Bulgaria,Pleven,64800,101,2
+Bulgaria,Plovdiv,124669,344,3
+Bulgaria,Razgrad,36688,40,1
+Bulgaria,Ruse,30372,170,2
+Bulgaria,Shumen,68989,58,2
+Bulgaria,Silistra,25377,61,2
+Bulgaria,Sliven,62523,73,2
+Bulgaria,Smolyan,44971,30,1
+Bulgaria,Sofia,102393,69,2
+Bulgaria,Sofia City,232521,1662,3
+Bulgaria,Stara Zagora,,179,2
+Bulgaria,Targovishte,18661,94,2
+Bulgaria,Varna,96573,255,3
+Bulgaria,Veliko Tarnovo,69391,141,2
+Bulgaria,Vidin,34696,59,2
+Bulgaria,Vratsa,55227,51,2
+Bulgaria,Yambol,39430,75,2
+Croatia,Bjelovar-Bilogora,68877,11,1
+Croatia,Brod-Posavina,75482,15,1
+Croatia,City of Zagreb,210626,483,3
+Croatia,Dubrovnik-Neretva,68915,49,1
+Croatia,Istria,138280,89,2
+Croatia,Karlovac,36111,27,1
+Croatia,Koprivnica-Krizevci,55390,6,1
+Croatia,Krapina-Zagorje,80100,9,1
+Croatia,Lika-Senj,28813,6,1
+Croatia,Medimurje,62845,8,1
+Croatia,Osijek-Baranja,96459,69,2
+Croatia,Pozega-Slavonia,36487,4,1
+Croatia,Primorje-Gorski Kotar,154204,87,2
+Croatia,Sibenik-Knin,45963,59,2
+Croatia,Sisak-Moslavina,96122,26,1
+Croatia,Split-Dalmatia,300971,226,3
+Croatia,Varazdin,81743,14,1
+Croatia,Virovitica-Podravina,29400,4,1
+Croatia,Vukovar-Sirmium,42250,39,1
+Croatia,Zadar,96578,87,2
+Croatia,Zagreb,165895,11,1
+Cyprus,Famagusta,,226,3
+Cyprus,Larnaca,,186,2
+Cyprus,Kyrenia,,44,1
+Cyprus,Limassol,,312,3
+Cyprus,Nicosia,,1362,3
+Cyprus,Paphos,,215,3
+Greece,Attica,,2555,3
+Greece,Thessaly-Central Greece,,515,3
+Greece,Macedonia-Thrace,1347832,1810,3
+Greece,Crete,,348,3
+Greece,Epirus-Western Macedonia,254858,211,3
+Greece,Peloponnese-Western Greece-Ionian Islands,,513,3
+Greece,Aegean,,584,3
+Kosovo,Ferizaj,,64,2
+Kosovo,Gjakova,,26,1
+Kosovo,Gjilan,,46,1
+Kosovo,Mitrovica,,444,3
+Kosovo,Pristina,,523,3
+Kosovo,Prizreni,,25,1
+Moldova,Anenii Noi,61090,28,1
+Moldova,Balti,13696,74,2
+Moldova,Falesti,13275,22,1
+Moldova,Basarabeasca,10512,22,1
+Moldova,Briceni,6492,18,1
+Moldova,Cahul,35496,41,1
+Moldova,Calarasi,29510,13,1
+Moldova,Cantemir,4214,8,1
+Moldova,Causeni,21415,29,1
+Moldova,Chisinau,401507,1185,3
+Moldova,Cimislia,7550,15,1
+Moldova,Criuleni,28362,16,1
+Moldova,Donduseni,7441,8,1
+Moldova,Drochia,16783,10,1
+Moldova,Dubasari,20725,13,1
+Moldova,Edinet,13635,15,1
+Moldova,Floresti,24138,9,1
+Moldova,Gagauzia,55527,156,2
+Moldova,Glodeni,5917,8,1
+Moldova,Hincesti,21394,37,1
+Moldova,Ialoveni,32571,24,1
+Moldova,Leova,5329,11,1
+Moldova,Nisporeni,14846,11,1
+Moldova,Ocnita,16896,21,1
+Moldova,Orhei,49779,38,1
+Moldova,Rezina,8926,14,1
+Moldova,Riscani,5917,10,1
+Moldova,Singerei,12229,12,1
+Moldova,Soldanesti,1307,7,1
+Moldova,Soroca,39326,14,1
+Moldova,Stefan Voda,15071,10,1
+Moldova,Straseni,28539,11,1
+Moldova,Taraclia,7543,11,1
+Moldova,Telenesti,33073,16,1
+Moldova,Bender,55896,17,1
+Moldova,Camenca,7239,1,1
+Moldova,Slobozia,49715,10,1
+Moldova,Grigoriopol,9831,3,1
+Moldova,Ribnita,41269,7,1
+Moldova,Tiraspol,9388,36,1
+Moldova,Ungheni,16530,33,1
+Montenegro,Cetinje,9218,199,2
+Montenegro,Danilovgrad,14989,29,1
+Montenegro,Niksic,29234,146,2
+Montenegro,Podgorica,29106,448,3
+Montenegro,Tuzi,11714,11,1
+Montenegro,Bar,15256,89,2
+Montenegro,Budva,22046,76,2
+Montenegro,Herceg Novi,20873,76,2
+Montenegro,Kotor,5162,31,1
+Montenegro,Tivat,6170,25,1
+Montenegro,Ulcinj,75,25,1
+Montenegro,Andrijevica,383,15,1
+Montenegro,Berane,31721,78,2
+Montenegro,Bijelo Polje,16091,92,2
+Montenegro,Pljevlja,912,67,2
+Montenegro,Gusinje,3779,5,1
+Montenegro,Kolasin,3740,51,2
+Montenegro,Mojkovac,3356,19,1
+Montenegro,Petnjica,530,2,1
+Montenegro,Plav,2992,9,1
+Montenegro,Pluzine,1220,28,1
+Montenegro,Rozaje,,10,1
+Montenegro,Savnik,1016,7,1
+Montenegro,Zabljak,2454,23,1
+North Macedonia,Kisela Voda,2150,1,1
+North Macedonia,Centar,43299,687,3
+North Macedonia,Berovo,8761,10,1
+North Macedonia,Cheshinovo-Obleshevo,4528,8,1
+North Macedonia,Delchevo,13793,11,1
+North Macedonia,Karbintsi,3990,1,1
+North Macedonia,Kochani,8454,51,2
+North Macedonia,Lozovo,2570,1,1
+North Macedonia,Makedonska Kamenitsa,7191,4,1
+North Macedonia,Pehchevo,2877,1,1
+North Macedonia,Probishtip,8488,0,1
+North Macedonia,Shtip,45171,45,1
+North Macedonia,Sveti Nikole,4380,14,1
+North Macedonia,Vinitsa,8083,2,1
+North Macedonia,Zrnovtsi,1723,0,1
+North Macedonia,Kratovo,6656,2,1
+North Macedonia,Kriva Palanka,15474,3,1
+North Macedonia,Kumanovo,23213,55,2
+North Macedonia,Rankovtse,1887,0,1
+North Macedonia,Staro Nagorichane,1170,0,1
+North Macedonia,Bitola,79457,53,2
+North Macedonia,Demir Hisar,2485,1,1
+North Macedonia,Dolneni,639,1,1
+North Macedonia,Krivogashtani,2139,0,1
+North Macedonia,Krushevo,5388,3,1
+North Macedonia,Mogila,2401,0,1
+North Macedonia,Novatsi,704,1,1
+North Macedonia,Prilep,9740,64,2
+North Macedonia,Resen,7467,3,1
+North Macedonia,Bogovinje,23853,3,1
+North Macedonia,Brvenitsa,13518,1,1
+North Macedonia,Gostivar,75671,29,1
+North Macedonia,Jegunovtse,3598,0,1
+North Macedonia,Mavrovo and Roshtushe,4344,3,1
+North Macedonia,Teartse,6589,1,1
+North Macedonia,Tetovo,38064,84,2
+North Macedonia,Vrapchishte,5056,0,1
+North Macedonia,Zhelino,8564,3,1
+North Macedonia,Arachinovo,7859,0,1
+North Macedonia,Chucher-Sandevo,2373,2,1
+North Macedonia,Ilinden,1733,0,1
+North Macedonia,Petrovets,12567,0,1
+North Macedonia,Sopishte,5212,0,1
+North Macedonia,Studenichani,52995,2,1
+North Macedonia,Zelenikovo,3696,0,1
+North Macedonia,Bogdantsi,6640,2,1
+North Macedonia,Bosilovo,6247,10,1
+North Macedonia,Dojran,1626,4,1
+North Macedonia,Gevgelija,10382,21,1
+North Macedonia,Konche,1704,0,1
+North Macedonia,Novo Selo,1010,1,1
+North Macedonia,Radovish,17134,2,1
+North Macedonia,Strumitsa,16659,31,1
+North Macedonia,Valandovo,7197,1,1
+North Macedonia,Vasilevo,6493,0,1
+North Macedonia,Centar Zhupa,5671,0,1
+North Macedonia,Debar,4462,4,1
+North Macedonia,Debrtsa,190,1,1
+North Macedonia,Kichevo,16536,26,1
+North Macedonia,Makedonski Brod,2476,2,1
+North Macedonia,Ohrid,23673,28,1
+North Macedonia,Plasnitsa,4279,0,1
+North Macedonia,Struga,16296,19,1
+North Macedonia,Vevchani,1652,0,1
+North Macedonia,Chashka,19492,12,1
+North Macedonia,Demir Kapija,2113,0,1
+North Macedonia,Gradsko,2473,1,1
+North Macedonia,Kavadartsi,6439,25,1
+North Macedonia,Negotino,13927,20,1
+North Macedonia,Rosoman,4270,4,1
+North Macedonia,Veles,23599,29,1
+Romania,Alba,30156,40,1
+Romania,Arad,37475,56,2
+Romania,Arges,88357,22,1
+Romania,Bacau,34629,26,1
+Romania,Bihor,44126,52,2
+Romania,Bistrita-Nasaud,32269,34,1
+Romania,Botosani,21314,65,2
+Romania,Braila,71757,21,1
+Romania,Brasov,37062,72,2
+Romania,Bucharest,9262,881,3
+Romania,Buzau,60955,56,2
+Romania,Calarasi,1582195,8,1
+Romania,Caras-Severin,9373,9,1
+Romania,Cluj,183232,132,2
+Romania,Constanta,,109,2
+Romania,Covasna,42037,14,1
+Romania,Dambovita,54351,14,1
+Romania,Dolj,163225,58,2
+Romania,Galati,98820,64,2
+Romania,Giurgiu,12904,31,1
+Romania,Gorj,20735,31,1
+Romania,Harghita,18260,24,1
+Romania,Hunedoara,81081,71,2
+Romania,Ialomita,32545,4,1
+Romania,Iasi,47630,202,3
+Romania,Ilfov,40119,18,1
+Romania,Maramures,78070,19,1
+Romania,Mehedinti,12184,10,1
+Romania,Mures,33368,62,2
+Romania,Neamt,3114,17,1
+Romania,Olt,30195,45,1
+Romania,Prahova,137848,51,2
+Romania,Salaj,16416,9,1
+Romania,Satu Mare,67470,28,1
+Romania,Sibiu,47567,644,3
+Romania,Suceava,51089,48,1
+Romania,Teleorman,42341,8,1
+Romania,Timis,65122,104,2
+Romania,Tulcea,,32,1
+Romania,Valcea,4041,32,1
+Romania,Vaslui,47266,23,1
+Romania,Vrancea,5050,19,1
+Russia,Altai,266769,194,2
+Russia,Republic of Altai,68096,30,1
+Russia,Amur,146544,36,1
+Russia,Arkhangelsk,255989,178,2
+Russia,Astrakhan,277221,140,2
+Russia,Belgorod,,20665,3
+Russia,Bryansk,292166,880,3
+Russia,Chelyabinsk,303366,206,3
+Russia,Chukotka,19034,4,1
+Russia,Irkutsk,271257,191,2
+Russia,Ivanovo,206157,92,2
+Russia,Jewish Autonomous Oblast,79926,24,1
+Russia,Kaliningrad,240183,109,2
+Russia,Kaluga,121677,231,3
+Russia,Kamchatka,40206,28,1
+Russia,Kemerovo,496751,80,2
+Russia,Khabarovsk,186355,362,3
+Russia,Khanty-Mansi,158067,73,2
+Russia,Kirov,268100,188,2
+Russia,Kostroma,39458,52,2
+Russia,Krasnodar,,584,3
+Russia,Krasnoyarsk,467024,164,2
+Russia,Kurgan,272392,44,1
+Russia,Kursk,,3913,3
+Russia,Leningrad,218112,128,2
+Russia,Lipetsk,191603,111,2
+Russia,Magadan,10619,28,1
+Russia,Moscow,1294052,1496,3
+Russia,Moscow Oblast,2159554,404,3
+Russia,Murmansk,77787,61,2
+Russia,Nenets,12442,17,1
+Russia,Nizhny Novgorod,331690,179,2
+Russia,Novgorod,108108,83,2
+Russia,Novosibirsk,220718,449,3
+Russia,Omsk,233185,139,2
+Russia,Orenburg,234218,112,2
+Russia,Oryol,104776,232,3
+Russia,Penza,97780,110,2
+Russia,Perm,132420,154,2
+Russia,Primorskiy,,209,3
+Russia,Pskov,67410,67,2
+Russia,Republic of Adygea,168465,25,1
+Russia,Republic of Bashkortostan,685046,257,3
+Russia,Republic of Buryatia,259163,76,2
+Russia,Republic of Chechnya,456722,148,2
+Russia,Republic of Chuvash,393211,94,2
+Russia,Republic of Dagestan,,464,3
+Russia,Republic of Ingushetia,171304,115,2
+Russia,Republic of Kabardino-Balkaria,251608,84,2
+Russia,Republic of Kalmykia,56367,58,2
+Russia,Republic of Karachay-Cherkessia,156774,37,1
+Russia,Republic of Karelia,46245,44,1
+Russia,Republic of Khakassia,69279,24,1
+Russia,Republic of Komi,142216,98,2
+Russia,Republic of Mari El,125862,41,1
+Russia,Republic of Mordovia,128911,48,1
+Russia,Republic of North Ossetia-Alania,192436,64,2
+Russia,Republic of Sakha,105292,62,2
+Russia,Republic of Tatarstan,444617,257,3
+Russia,Republic of Tuva,7412,21,1
+Russia,Udmurt Republic,580092,103,2
+Russia,Rostov,549434,682,3
+Russia,Ryazan,148551,165,2
+Russia,Saint Petersburg,1857083,675,3
+Russia,Sakhalin,103046,48,1
+Russia,Samara,433778,205,3
+Russia,Saratov,447379,271,3
+Russia,Smolensk,82374,125,2
+Russia,Stavropol,420665,101,2
+Russia,Sverdlovsk,,348,3
+Russia,Tambov,159650,109,2
+Russia,Tomsk,188211,105,2
+Russia,Tula,113920,156,2
+Russia,Tver,141603,85,2
+Russia,Tyumen,108392,104,2
+Russia,Ulyanovsk,65133,82,2
+Russia,Vladimir,165073,117,2
+Russia,Volgograd,387202,400,3
+Russia,Vologda,206101,54,2
+Russia,Voronezh,197538,394,3
+Russia,Yamalo-Nenets,26654,33,1
+Russia,Yaroslavl,278072,118,2
+Russia,Zabaykalskiy,135089,69,2
+Serbia,Belgrade,748601,1691,3
+Serbia,Bor,25422,102,2
+Serbia,Branicevo,56456,83,2
+Serbia,Jablanica,30988,162,2
+Serbia,Kolubara,17942,133,2
+Serbia,Macva,33354,181,2
+Serbia,Moravica,121850,329,3
+Serbia,Nisava,73255,421,3
+Serbia,Pcinja,54693,154,2
+Serbia,Pirot,25027,73,2
+Serbia,Podunavlje,84238,82,2
+Serbia,Pomoravlje,76369,119,2
+Serbia,Rasina,65561,134,2
+Serbia,Raska,136566,248,3
+Serbia,Sumadija,55151,339,3
+Serbia,Toplica,21007,115,2
+Serbia,Zajecar,27218,108,2
+Serbia,Zlatibor,116395,233,3
+Serbia,Central Banat,59547,163,2
+Serbia,North Backa,25993,121,2
+Serbia,North Banat,28983,41,1
+Serbia,South Backa,254129,683,3
+Serbia,South Banat,58825,132,2
+Serbia,Srem,78367,146,2
+Serbia,West Backa,20620,79,2
+Ukraine,Cherkasy,429813,555,3
+Ukraine,Chernihiv,,7976,3
+Ukraine,Chernivtsi,151320,151,2
+Ukraine,Crimea,,962,3
+Ukraine,Dnipropetrovsk,669322,6072,3
+Ukraine,Donetsk,,109924,3
+Ukraine,Ivano-Frankivsk,281644,246,3
+Ukraine,Kharkiv,,27507,3
+Ukraine,Kherson,,26648,3
+Ukraine,Khmelnytskyi,273256,427,3
+Ukraine,Kyiv,739858,1197,3
+Ukraine,Kyiv City,746362,3173,3
+Ukraine,Kirovohrad,207253,439,3
+Ukraine,Luhansk,,19776,3
+Ukraine,Lviv,638850,653,3
+Ukraine,Mykolaiv,,4232,3
+Ukraine,Odesa,,1601,3
+Ukraine,Poltava,411260,560,3
+Ukraine,Rivne,355290,240,3
+Ukraine,Sumy,,24178,3
+Ukraine,Ternopil,287703,170,2
+Ukraine,Vinnytsia,283444,296,3
+Ukraine,Volyn,217961,162,2
+Ukraine,Zakarpattia,440586,140,2
+Ukraine,Zaporizhia,,22077,3
+Ukraine,Zhytomyr,302320,429,3
+Greece,South Aegean,,3,1
+Czech Republic,Prague,29925,851,3
+Czech Republic,South Bohemia,216294,55,2
+Czech Republic,South Moravian,246901,133,2
+Czech Republic,Karlovy Vary,90336,43,1
+Czech Republic,Vysocina,187250,22,1
+Czech Republic,Hradec Kralove,169638,57,2
+Czech Republic,Liberec,163861,35,1
+Czech Republic,Moravian-Silesian,293383,75,2
+Czech Republic,Olomouc,197020,34,1
+Czech Republic,Pardubice,144154,37,1
+Czech Republic,Plzen,210719,44,1
+Czech Republic,Central Bohemia,444777,57,2
+Czech Republic,Usti nad Labem,292472,75,2
+Czech Republic,Zlin,171203,38,1
+Denmark,Hovedstaden,870105,1565,3
+Denmark,Midtjylland,334255,515,3
+Denmark,Nordjylland,242549,229,3
+Denmark,Sjaelland,303448,221,3
+Denmark,Syddanmark,330100,416,3
+Estonia,Harju,23686,282,3
+Estonia,Ida-Viru,29935,12,1
+Estonia,Jarva,3,1,1
+Estonia,Jogeva,8839,2,1
+Estonia,Laane,3907,3,1
+Estonia,Laane-Viru,9597,3,1
+Estonia,Parnu,41318,5,1
+Estonia,Hiiu,6,1,1
+Estonia,Saare,18800,3,1
+Estonia,Tartu,19277,84,2
+Estonia,Valga,208,2,1
+Estonia,Viljandi,25723,3,1
+Estonia,Voru,4494,4,1
+Faroe Islands,Streymoyar,36845,8,1
+Finland,Ahvenanmaa,,12,1
+Finland,Etela-Karjala,48678,30,1
+Finland,Etela-Pohjanmaa,47633,19,1
+Finland,Etela-Savo,41594,27,1
+Finland,Kainuu,8284,14,1
+Finland,Kanta-Hame,48331,19,1
+Finland,Keski-Pohjanmaa,9904,12,1
+Finland,Keski-Suomi,23665,79,2
+Finland,Kymenlaakso,41017,26,1
+Finland,Lappi,,75,2
+Finland,Paijat-Hame,18559,22,1
+Finland,Pirkanmaa,73453,151,2
+Finland,Pohjanmaa,28682,27,1
+Finland,Pohjois-Karjala,5986,37,1
+Finland,Pohjois-Pohjanmaa,42444,116,2
+Finland,Pohjois-Savo,37851,39,1
+Finland,Satakunta,58162,16,1
+Finland,Uusimaa,295360,927,3
+Finland,Varsinais-Suomi,67626,113,2
+Greenland,Kujalleq,3470,5,1
+Greenland,Sermersooq,0,28,1
+Hungary,Bacs-Kiskun,35586,13,1
+Hungary,Baranya,31426,58,2
+Hungary,Bekes,60432,15,1
+Hungary,Borsod-Abauj-Zemplen,45541,33,1
+Hungary,Budapest,1325579,731,3
+Hungary,Csongrad,67453,72,2
+Hungary,Fejer,54890,28,1
+Hungary,Gyor-Moson-Sopron,70154,50,2
+Hungary,Hajdu-Bihar,139178,86,2
+Hungary,Heves,66098,11,1
+Hungary,Komarom-Esztergom,40604,23,1
+Hungary,Pest,389526,64,2
+Hungary,Somogy,36560,18,1
+Hungary,Szabolcs-Szatmar-Bereg,84103,25,1
+Hungary,Vas,84648,31,1
+Hungary,Veszprem,80773,28,1
+Iceland,Akureyrarbaer,4463,8,1
+Iceland,Kaldrananeshreppur,334,0,1
+Iceland,Grundarfjardarbaer,0,1,1
+Iceland,Isafjardarbaer,654,4,1
+Iceland,Reykjanesbaer,5866,3,1
+Iceland,Reykjavikurborg,16485,252,3
+Iceland,Sveitarfelagid Arborg,1898,0,1
+Latvia,Daugavpils,15770,9,1
+Latvia,Jelgava,2895,6,1
+Latvia,Kraslavas,1619,3,1
+Latvia,Ogres,1293,2,1
+Latvia,Riga,141068,242,3
+Latvia,Saulkrastu,2042,1,1
+Latvia,Strencu,3084,1,1
+Latvia,Zilupes,946,1,1
+Lithuania,Alytus,70351,7,1
+Lithuania,Kauno,18070,42,1
+Lithuania,Klaipedos,42381,28,1
+Lithuania,Utenos,48836,6,1
+Lithuania,Vilniaus,32980,431,3
+Norway,Agder,45672,224,3
+Norway,Viken,368033,142,2
+Norway,Vestfold og Telemark,142328,85,2
+Norway,Innlandet,121047,63,2
+Norway,Troms og Finnmark,59357,121,2
+Norway,Rogaland,176363,130,2
+Norway,Vestland,60908,284,3
+Norway,More og Romsdal,49056,92,2
+Norway,Nordland,102541,64,2
+Norway,Oslo,158356,845,3
+Norway,Trondelag,63658,227,3
+Poland,Dolnoslaskie,849085,615,3
+Poland,Kujawsko-Pomorskie,534306,487,3
+Poland,Lodzkie,444012,307,3
+Poland,Lubelskie,370784,562,3
+Poland,Lubuskie,280506,173,2
+Poland,Malopolskie,463609,650,3
+Poland,Mazowieckie,1041225,1505,3
+Poland,Opolskie,186786,190,2
+Poland,Podkarpackie,289922,395,3
+Poland,Podlaskie,310177,520,3
+Poland,Pomorskie,751055,665,3
+Poland,Slaskie,1131017,565,3
+Poland,Swietokrzyskie,326493,166,2
+Poland,Warminsko-Mazurskie,406046,223,3
+Poland,Wielkopolskie,865877,606,3
+Poland,Zachodniopomorskie,437226,471,3
+Slovakia,Banskobystricky,173049,91,2
+Slovakia,Bratislavsky,130888,345,3
+Slovakia,Kosicky,142258,228,3
+Slovakia,Nitriansky,105425,65,2
+Slovakia,Presovsky,112202,120,2
+Slovakia,Trenciansky,124066,61,2
+Slovakia,Trnavsky,121914,64,2
+Slovakia,Zilinsky,132834,115,2
+Slovenia,Bled,4027,4,1
+Slovenia,Bovec,62,0,1
+Slovenia,Brezice,4162,4,1
+Slovenia,Celje,3508,24,1
+Slovenia,Cirkulane,494,1,1
+Slovenia,Crna na Koroskem,2680,0,1
+Slovenia,Crnomelj,9561,1,1
+Slovenia,Domzale,1021,0,1
+Slovenia,Gornja Radgona,8522,3,1
+Slovenia,Hrpelje-Kozina,873,1,1
+Slovenia,Ig,8421,0,1
+Slovenia,Ilirska Bistrica,8210,2,1
+Slovenia,Izola,14349,6,1
+Slovenia,Jesenice,5738,5,1
+Slovenia,Kamnik,14278,5,1
+Slovenia,Kanal,3452,4,1
+Slovenia,Kobarid,601,0,1
+Slovenia,Koper,53940,19,1
+Slovenia,Kranj,27173,10,1
+Slovenia,Krsko,12272,2,1
+Slovenia,Lenart,4616,1,1
+Slovenia,Lendava,7406,1,1
+Slovenia,Ljubljana,153796,371,3
+Slovenia,Ljutomer,1662,2,1
+Slovenia,Maribor,37032,70,2
+Slovenia,Mislinja,2861,2,1
+Slovenia,Murska Sobota,6285,6,1
+Slovenia,Nazarje,1467,0,1
+Slovenia,Nova Gorica,33161,15,1
+Slovenia,Novo mesto,9439,6,1
+Slovenia,Ormoz,12870,0,1
+Slovenia,Piran,12839,5,1
+Slovenia,Poljcane,2897,3,1
+Slovenia,Postojna,11066,0,1
+Slovenia,Ptuj,11261,8,1
+Slovenia,Ravne na Koroskem,3471,0,1
+Slovenia,Sentilj,3019,3,1
+Slovenia,Sezana,4268,2,1
+Slovenia,Slovenska Bistrica,13649,3,1
+Slovenia,Smarje pri Jelsah,121,0,1
+Slovenia,Tisina,2261,0,1
+Slovenia,Tolmin,470,0,1
+Slovenia,Trbovlje,19162,7,1
+Slovenia,Velenje,16705,8,1
+Slovenia,Velike Lasce,3680,0,1
+Slovenia,Videm,475,0,1
+Slovenia,Vodice,2062,0,1
+Slovenia,Zalec,1500,0,1
+Sweden,Blekinge,35827,35,1
+Sweden,Dalarnas,134973,419,3
+Sweden,Vastmanlands,124547,175,2
+Sweden,Gavleborgs,25171,63,2
+Sweden,Gotlands,52520,25,1
+Sweden,Hallands,42262,46,1
+Sweden,Jamtlands,19769,40,1
+Sweden,Jonkopings,141674,349,3
+Sweden,Kalmar,80357,265,3
+Sweden,Kronobergs,39924,82,2
+Sweden,Norrbottens,74305,172,2
+Sweden,Orebro,68411,261,3
+Sweden,Ostergotlands,145354,385,3
+Sweden,Skane,401693,1172,3
+Sweden,Sodermanlands,157181,71,2
+Sweden,Stockholms,876849,1664,3
+Sweden,Uppsala,69134,275,3
+Sweden,Varmlands,91999,106,2
+Sweden,Vasterbottens,75479,427,3
+Sweden,Vasternorrlands,77376,194,2
+Sweden,Vastra Gotalands,455746,896,3
+Latvia,Valkas,21879,2,1
+Latvia,Jekabpils,32772,2,1
+Slovenia,Zagorje ob Savi,8273,2,1
+Slovenia,Hrastnik,3709,1,1
+Slovenia,Radovljica,7028,1,1
+Lithuania,Siauliu,10105,6,1
+Lithuania,Panevezio,53900,7,1
+Lithuania,Marijampoles,31592,4,1
+Latvia,Ventspils,10078,2,1
+Norway,Svalbard,,8,1
+Armenia,Aragatsotn,63797,56,2
+Armenia,Ararat,232699,953,3
+Armenia,Armavir,165661,115,2
+Armenia,Gegharkunik,140401,781,3
+Armenia,Kotayk,304318,67,2
+Armenia,Lori,48335,85,2
+Armenia,Shirak,111264,165,2
+Armenia,Syunik,81429,385,3
+Armenia,Tavush,72772,2031,3
+Armenia,Vayots Dzor,28871,710,3
+Armenia,Yerevan,98049,1900,3
+Azerbaijan,Absheron,105176,6,1
+Azerbaijan,Agdam,169967,3320,3
+Azerbaijan,Agdash,12886,1,1
+Azerbaijan,Aghjabadi,57739,795,3
+Azerbaijan,Agstafa,23313,75,2
+Azerbaijan,Agsu,18504,0,1
+Azerbaijan,Xocali,10357,185,2
+Azerbaijan,Shusha,13905,290,3
+Azerbaijan,Astara,75431,1,1
+Azerbaijan,Babek,1539,6,1
+Azerbaijan,Baku,82230,358,3
+Azerbaijan,Balakan,2682,1,1
+Azerbaijan,Barda,59381,19,1
+Azerbaijan,Beylagan,12763,4,1
+Azerbaijan,Bilasuvar,9988,2,1
+Azerbaijan,Dashkasan,17404,41,1
+Azerbaijan,Fizuli,58651,4072,3
+Azerbaijan,Gadabay,21497,1076,3
+Azerbaijan,Ganja,87311,17,1
+Azerbaijan,Goranboy,24135,915,3
+Azerbaijan,Goychay,29305,3,1
+Azerbaijan,Goygol,12871,48,1
+Azerbaijan,Jabrayil,38327,133,2
+Azerbaijan,Khojavend,89325,1354,3
+Azerbaijan,Hajigabul,13698,0,1
+Azerbaijan,Imishli,11390,0,1
+Azerbaijan,Ismailli,6437,0,1
+Azerbaijan,Jalilabad,49490,2,1
+Azerbaijan,Julfa,9141,2,1
+Azerbaijan,Kangarli,14188,0,1
+Azerbaijan,Zengilan,42266,67,2
+Azerbaijan,Lacin,147734,109,2
+Azerbaijan,Qubadli,45794,65,2
+Azerbaijan,Khachmaz,38712,6,1
+Azerbaijan,Khizi,5597,2,1
+Azerbaijan,Kurdamir,24358,3,1
+Azerbaijan,Lankaran,22171,2,1
+Azerbaijan,Lerik,8921,0,1
+Azerbaijan,Tartar,67788,2491,3
+Azerbaijan,Kelbecer,70980,343,3
+Azerbaijan,Masally,23360,0,1
+Azerbaijan,Mingachevir,85153,5,1
+Azerbaijan,Naftalan,2895,1,1
+Azerbaijan,Nakhchivan,150058,17,1
+Azerbaijan,Neftchala,18681,1,1
+Azerbaijan,Oghuz,8927,1,1
+Azerbaijan,Ordubad,12260,9,1
+Azerbaijan,Qabala,12312,2,1
+Azerbaijan,Qakh,13156,1,1
+Azerbaijan,Qazakh,31342,1639,3
+Azerbaijan,Quba,30776,3,1
+Azerbaijan,Qusar,12196,3,1
+Azerbaijan,Saatly,19023,5,1
+Azerbaijan,Sabirabad,18003,0,1
+Azerbaijan,Sadarak,18602,37,1
+Azerbaijan,Salyan,5142,2,1
+Azerbaijan,Samukh,10176,0,1
+Azerbaijan,Shabran,1617,1,1
+Azerbaijan,Shakhbuz,12462,6,1
+Azerbaijan,Shaki,29420,4,1
+Azerbaijan,Shamakhi,9513,0,1
+Azerbaijan,Shamkir,43315,1,1
+Azerbaijan,Sharur,14665,11,1
+Azerbaijan,Shirvan,50157,0,1
+Azerbaijan,Siazan,24262,1,1
+Azerbaijan,Stepanakert,2067,233,3
+Azerbaijan,Sumqayit,291171,7,1
+Azerbaijan,Tovuz,29635,1159,3
+Azerbaijan,Ujar,31926,0,1
+Azerbaijan,Yardymli,22815,1,1
+Azerbaijan,Yevlakh,27674,3,1
+Azerbaijan,Zaqatala,4392,2,1
+Azerbaijan,Zardab,12381,2,1
+Georgia,Autonomous Republic of Abkhazia,105570,91,2
+Georgia,Autonomous Republic of Adjara,380570,808,3
+Georgia,Guria,45533,121,2
+Georgia,Imereti,155414,508,3
+Georgia,Kakheti,143035,235,3
+Georgia,Kvemo Kartli,129976,231,3
+Georgia,Leningor,0,2,1
+Georgia,Mtskheta-Mtianeti,20568,40,1
+Georgia,Racha-Lechkhumi and Kvemo Svaneti,10109,25,1
+Georgia,Samegrelo-Zemo Svaneti,151438,419,3
+Georgia,Samtskhe-Javakheti,57110,53,2
+Georgia,Tskhinvali,26022,74,2
+Georgia,Shida Kartli,137193,225,3
+Georgia,Dzau,0,0,1
+Georgia,Znaur,809,1,1
+Georgia,Tbilisi,439119,2430,3
+Kazakhstan,Almaty,762145,420,3
+Kazakhstan,Almaty City,27260,901,3
+Kazakhstan,Aqmola,193492,94,2
+Kazakhstan,Aqtobe,338124,378,3
+Kazakhstan,Astana City,364901,591,3
+Kazakhstan,Atyrau,196749,343,3
+Kazakhstan,East Kazakhstan,214579,275,3
+Kazakhstan,Kostanay,215547,43,1
+Kazakhstan,Kyzylorda,350739,159,2
+Kazakhstan,Mangystau,192992,920,3
+Kazakhstan,North Kazakhstan,211199,78,2
+Kazakhstan,Pavlodar,57122,46,1
+Kazakhstan,Qaraghandy,243612,205,3
+Kazakhstan,Shymkent,314185,333,3
+Kazakhstan,Turkistan,762694,265,3
+Kazakhstan,West Kazakhstan,204122,214,3
+Kazakhstan,Zhambyl,378256,200,3
+Kyrgyzstan,Batken,355141,258,3
+Kyrgyzstan,Bishkek,875375,1051,3
+Kyrgyzstan,Chui,645681,189,2
+Kyrgyzstan,Issyk-Kul,115183,112,2
+Kyrgyzstan,Jalal-Abad,447864,177,2
+Kyrgyzstan,Naryn,56554,102,2
+Kyrgyzstan,Osh,342411,140,2
+Kyrgyzstan,Osh City,97164,157,2
+Kyrgyzstan,Talas,107500,74,2
+Tajikistan,Districts of Republican Subordination,38502,5,1
+Tajikistan,Dushanbe,708614,49,1
+Tajikistan,Gorno-Badakhshan Autonomous,48779,37,1
+Tajikistan,Khatlon,371583,27,1
+Tajikistan,Sughd,274578,57,2
+Turkmenistan,Ashgabat,12783,12,1
+Turkmenistan,Balkan,126952,4,1
+Turkmenistan,Dasoguz,21030,3,1
+Turkmenistan,Lebap,194044,15,1
+Turkmenistan,Mary,146998,15,1
+Uzbekistan,Andizhan,488335,54,2
+Uzbekistan,Bukhara,118300,17,1
+Uzbekistan,Dzhizak,165898,19,1
+Uzbekistan,Fergana,717863,61,2
+Uzbekistan,Kashkadarya,440024,72,2
+Uzbekistan,Khorezm,315975,21,1
+Uzbekistan,Namangan,284025,37,1
+Uzbekistan,Navoi,192231,17,1
+Uzbekistan,Republic of Karakalpakstan,935644,86,2
+Uzbekistan,Samarkand,674568,54,2
+Uzbekistan,Sirdaryo,152728,21,1
+Uzbekistan,Surkhandarya,785571,69,2
+Uzbekistan,Tashkent,885073,64,2
+Uzbekistan,Tashkent City,989995,499,3
+Latvia,Tukuma,3198,3,1
+Hungary,Nograd,17278,7,1
+Hungary,Tolna,38790,4,1
+Hungary,Jasz-Nagykun-Szolnok,37900,13,1
+Slovenia,Metlika,6198,3,1
+Hungary,Zala,33706,14,1
+Slovenia,Kranjska Gora,31,1,1
+Latvia,Saldus,2346,2,1
+Latvia,Limbazu,11031,3,1
+Latvia,Talsu,2515,2,1
+Latvia,Gulbenes,9207,2,1
+Latvia,Bauskas,24795,3,1
+Latvia,Skrundas,1753,1,1
+Latvia,Kuldigas,27416,2,1
+Slovenia,Radenci,1556,1,1
+Slovenia,Skofja Loka,23239,2,1
+Slovenia,Slovenj Gradec,10104,5,1
+Latvia,Ropazu,6310,2,1
+Slovenia,Kocevje,9514,3,1
+Lithuania,Telsiu,64590,4,1
+Lithuania,Taurages,5169,4,1
+Iceland,Sveitarfelagid Skagastrond,262,1,1
+Iceland,Fjardabyggd,3676,2,1
+Iceland,Borgarbyggd,369,1,1
+Latvia,Rezekne,47002,2,1
+Greenland,Qeqertalik,3234,1,1
+Greenland,Qeqqata,13149,5,1
+Slovenia,Slovenske Konjice,6102,2,1
+Slovenia,Hoce-Slivnica,1854,1,1
+Slovenia,Gorje,2756,2,1
+Slovenia,Sempeter-Vrtojba,4086,1,1
+Slovenia,Solcava,321,2,1
+Iceland,Sveitarfelagid Skagafjordur,3797,2,1
+Greenland,Avannaata,8944,3,1
+Latvia,Dobeles,8106,3,1
+Bahrain,Capital,507779,6519,3
+Bahrain,Muharraq,,487,3
+Bahrain,Northern,284363,5988,3
+Bahrain,Southern,225411,734,3
+Iran,Alborz,1321387,564,3
+Iran,Ardabil,752783,397,3
+Iran,Bushehr,663633,866,3
+Iran,Chaharmahal and Bakhtiari,326574,388,3
+Iran,East Azerbaijan,1091259,1081,3
+Iran,Fars,1120904,1113,3
+Iran,Gilan,911883,1070,3
+Iran,Golestan,943075,286,3
+Iran,Hamadan,441448,439,3
+Iran,Hormozgan,,746,3
+Iran,Ilam,348240,577,3
+Iran,Isfahan,1493967,1785,3
+Iran,Kerman,1182456,854,3
+Iran,Kermanshah,543815,1180,3
+Iran,Khuzestan,1293750,4654,3
+Iran,Kohgiluyeh and Boyer-Ahmad,304357,661,3
+Iran,Kurdistan,678899,1500,3
+Iran,Lorestan,725436,827,3
+Iran,Markazi,219178,731,3
+Iran,Mazandaran,,811,3
+Iran,North Khorasan,282569,237,3
+Iran,Qazvin,580119,671,3
+Iran,Qom,63972,258,3
+Iran,Razavi Khorasan,941192,1207,3
+Iran,Semnan,259251,394,3
+Iran,Sistan and Baluchestan,,1347,3
+Iran,South Khorasan,366713,161,2
+Iran,Tehran,4757864,5913,3
+Iran,West Azerbaijan,1304474,1184,3
+Iran,Yazd,266716,566,3
+Iran,Zanjan,217538,414,3
+Iraq,Al Anbar,,6262,3
+Iraq,Al Najaf,387764,498,3
+Iraq,Baghdad,4513421,6239,3
+Iraq,Babil,642542,730,3
+Iraq,Salah Al Din,,3405,3
+Iraq,Al Basrah,,3005,3
+Iraq,Ninewa,,8297,3
+Iraq,Duhok,,14706,3
+Iraq,Diyala,,3891,3
+Iraq,Erbil,662885,5068,3
+Iraq,Kirkuk,976198,3736,3
+Iraq,Kerbala,938595,350,3
+Iraq,Maysan,700800,1376,3
+Iraq,Al Muthanna,357624,1385,3
+Iraq,Al Qadissiya,630522,885,3
+Iraq,Al Sulaymaniyah,,1550,3
+Iraq,Thi Qar,1138895,2337,3
+Iraq,Wassit,645756,648,3
+Israel,HaDarom,,3467,3
+Israel,HaMerkaz,1616553,2759,3
+Israel,Haifa,646251,1837,3
+Israel,HaZafon,1124084,4511,3
+Israel,Jerusalem,828485,1793,3
+Palestine,West Bank,,47642,3
+Israel,Tel Aviv,880904,2221,3
+Jordan,Ajlun,144124,51,2
+Jordan,Al Aqabah,183863,140,2
+Jordan,Al Balqa,273715,233,3
+Jordan,Madaba,152205,175,2
+Jordan,Al Karak,172022,303,3
+Jordan,Al Mafraq,204068,180,2
+Jordan,Amman,2700076,1649,3
+Jordan,At Tafilah,76909,115,2
+Jordan,Az Zarqa,941413,272,3
+Jordan,Irbid,1420711,602,3
+Jordan,Jerash,70861,71,2
+Jordan,Maan,89439,204,3
+Kuwait,Al Ahmadi,143670,3,1
+Kuwait,Al Asimah,,107,2
+Kuwait,Al Farwaniyah,365966,7,1
+Kuwait,Al Jahra,205152,8,1
+Kuwait,Hawalli,609356,2,1
+Kuwait,Mubarak al Kabir,31163,2,1
+Lebanon,Akkar,117357,1180,3
+Lebanon,North,734956,2761,3
+Lebanon,Baalbek-Hermel,263164,2153,3
+Lebanon,Beirut,756606,3032,3
+Lebanon,Bekaa,242868,1763,3
+Lebanon,Mount Lebanon,2610109,3133,3
+Lebanon,Al Nabatieh,,11009,3
+Lebanon,South,,7083,3
+Oman,Ad Dakhiliyah,118586,4,1
+Oman,Al Batinah North,,5,1
+Oman,Al Batinah South,48377,3,1
+Oman,Al Buraymi,59910,1,1
+Oman,Al Wusta,24589,0,1
+Oman,Ash Sharqiyah North,57385,1,1
+Oman,Ash Sharqiyah South,,4,1
+Oman,Ad Dhahirah,23963,4,1
+Oman,Dhofar,,10,1
+Oman,Muscat,168765,15,1
+Oman,Musandam,,1,1
+Palestine,Gaza Strip,,32716,3
+Qatar,Ad Dawnah,385134,40,1
+Qatar,Al Daayen,1001,0,1
+Qatar,Ash Sheehaniya,8274,3,1
+Qatar,Al Wakrah,72658,0,1
+Qatar,Ar Rayyan,119650,10,1
+Qatar,Ash Shamal,10550,2,1
+Qatar,Umm Salal,6320,3,1
+Saudi Arabia,Al Bahah,55060,0,1
+Saudi Arabia,Northern Borders,26569,1,1
+Saudi Arabia,Al Jawf,121755,1,1
+Saudi Arabia,Al Madinah,,12,1
+Saudi Arabia,Al Qassim,145231,3,1
+Saudi Arabia,Ar Riyadh,506977,85,2
+Saudi Arabia,Eastern,1081025,110,2
+Saudi Arabia,Asir,180733,432,3
+Saudi Arabia,Hail,100764,2,1
+Saudi Arabia,Jizan,,1946,3
+Saudi Arabia,Mecca,,55,2
+Saudi Arabia,Najran,284861,893,3
+Saudi Arabia,Tabuk,,3,1
+Syria,Al Hasakeh,,10714,3
+Syria,Aleppo,3858416,26511,3
+Syria,Idleb,,27533,3
+Syria,Ar Raqqa,737891,9527,3
+Syria,As Sweida,380983,2538,3
+Syria,Rural Damascus,1964708,9035,3
+Syria,Damascus,1585999,2108,3
+Syria,Dara,923216,9457,3
+Syria,Deir ez Zor,,16972,3
+Syria,Homs,,5607,3
+Syria,Hama,1092741,18244,3
+Syria,Lattakia,,2929,3
+Syria,Quneitra,106063,1698,3
+Syria,Tartous,209709,198,2
+Turkey,Mersin,,843,3
+Turkey,Adana,656115,1245,3
+Turkey,Adiyaman,221019,256,3
+Turkey,Afyonkarahisar,222307,84,2
+Turkey,Burdur,,53,2
+Turkey,Agri,415757,420,3
+Turkey,Aksaray,91338,34,1
+Turkey,Amasya,130500,96,2
+Turkey,Ankara,5671949,4141,3
+Turkey,Antalya,1090100,665,3
+Turkey,Ardahan,41631,35,1
+Turkey,Artvin,81487,154,2
+Turkey,Aydin,,460,3
+Turkey,Balikesir,,474,3
+Turkey,Bartin,29476,45,1
+Turkey,Batman,375073,850,3
+Turkey,Bayburt,32507,39,1
+Turkey,Bilecik,139584,81,2
+Turkey,Bingol,144994,306,3
+Turkey,Bitlis,183742,538,3
+Turkey,Bolu,113175,118,2
+Turkey,Duzce,174563,94,2
+Turkey,Bursa,1031430,741,3
+Turkey,Canakkale,,462,3
+Turkey,Cankiri,76034,35,1
+Turkey,Corum,399868,112,2
+Turkey,Denizli,409436,320,3
+Turkey,Diyarbakir,927160,3671,3
+Turkey,Edirne,235038,263,3
+Turkey,Elazig,243567,206,3
+Turkey,Erzincan,133034,103,2
+Turkey,Erzurum,206486,239,3
+Turkey,Eskisehir,226303,470,3
+Turkey,Gaziantep,1097716,462,3
+Turkey,Giresun,205619,102,2
+Turkey,Gumushane,69171,53,2
+Turkey,Hakkari,242525,2004,3
+Turkey,Hatay,907095,668,3
+Turkey,Igdir,102877,140,2
+Turkey,Isparta,391756,36,1
+Turkey,Istanbul,,7890,3
+Turkey,Izmir,,3941,3
+Turkey,Kahramanmaras,548019,125,2
+Turkey,Karabuk,63687,63,2
+Turkey,Karaman,171160,50,2
+Turkey,Kars,133748,158,2
+Turkey,Kastamonu,,52,2
+Turkey,Kayseri,672820,271,3
+Turkey,Kilis,117015,92,2
+Turkey,Kirikkale,164664,51,2
+Turkey,Kirklareli,,168,2
+Turkey,Kirsehir,142498,60,2
+Turkey,Kocaeli,,735,3
+Turkey,Konya,653289,245,3
+Turkey,Kutahya,314438,133,2
+Turkey,Malatya,267105,247,3
+Turkey,Manisa,776025,354,3
+Turkey,Mardin,472172,1191,3
+Turkey,Mugla,,1083,3
+Turkey,Mus,139843,376,3
+Turkey,Nevsehir,73761,56,2
+Turkey,Nigde,82219,62,2
+Turkey,Ordu,,124,2
+Turkey,Osmaniye,256920,119,2
+Turkey,Rize,218278,132,2
+Turkey,Sakarya,305085,191,2
+Turkey,Samsun,749096,369,3
+Turkey,Sanliurfa,1026384,889,3
+Turkey,Siirt,200383,517,3
+Turkey,Sinop,,63,2
+Turkey,Sirnak,278027,1853,3
+Turkey,Sivas,121249,130,2
+Turkey,Tekirdag,,250,3
+Turkey,Tokat,337259,59,2
+Turkey,Trabzon,382596,180,2
+Turkey,Tunceli,27859,906,3
+Turkey,Usak,292624,64,2
+Turkey,Van,642769,1653,3
+Turkey,Yalova,256795,49,1
+Turkey,Yozgat,146888,48,1
+Turkey,Zonguldak,385563,120,2
+United Arab Emirates,Abu Dhabi,285586,30,1
+United Arab Emirates,Ajman,59284,0,1
+United Arab Emirates,Ash Shariqah,,3,1
+United Arab Emirates,Dubai,161961,12,1
+United Arab Emirates,Al Fujayrah,,2,1
+United Arab Emirates,Ras Al Khaymah,81665,0,1
+United Arab Emirates,Umm Al Qaywayn,2834,0,1
+Yemen,Abyan,,3156,3
+Yemen,Al Bayda,,3706,3
+Yemen,Ad Dali,489000,4702,3
+Yemen,Aden,,3868,3
+Yemen,Taizz,,12343,3
+Yemen,Marib,,10013,3
+Yemen,Al Hudaydah,,15430,3
+Yemen,Al Jawf,384550,5483,3
+Yemen,Al Mahrah,,325,3
+Yemen,Al Mahwit,416034,886,3
+Yemen,Amanat al Asimah,2481204,3597,3
+Yemen,Sanaa,,4870,3
+Yemen,Amran,,1407,3
+Yemen,Dhamar,,1440,3
+Yemen,Ibb,,3760,3
+Yemen,Hadramawt,,1424,3
+Yemen,Hajjah,,5847,3
+Yemen,Lahij,,2892,3
+Yemen,Raymah,,548,3
+Yemen,Sadah,,14779,3
+Yemen,Shabwah,,3028,3
+Yemen,Suqutra,,272,3
+Qatar,Al Khor,30264,3,1
+Saudi Arabia,Ash Sharqiyah,,1,1
+United States,Alabama,649844,955,3
+United States,Alaska,107113,310,3
+United States,Mississippi,464550,533,3
+United States,Texas,4054152,3400,3
+United States,Massachusetts,2825772,3759,3
+United States,New Mexico,310748,650,3
+United States,Missouri,1404710,1388,3
+United States,Arizona,868684,1579,3
+United States,Arkansas,576495,521,3
+United States,California,,12214,3
+United States,Louisiana,703892,941,3
+United States,Colorado,1041828,1396,3
+United States,Connecticut,1190187,1733,3
+United States,Delaware,320671,250,3
+United States,District of Columbia,348260,2101,3
+United States,Florida,4170563,4489,3
+United States,Georgia,1852689,1870,3
+United States,Hawaii,514909,515,3
+United States,Idaho,491837,534,3
+United States,Illinois,3868476,3463,3
+United States,Indiana,,1296,3
+United States,Iowa,932610,892,3
+United States,Kansas,633529,522,3
+United States,Kentucky,914468,1025,3
+United States,Maine,379222,821,3
+United States,Maryland,1782611,1573,3
+United States,Michigan,2438227,2574,3
+United States,Minnesota,1507165,1886,3
+United States,Montana,249652,411,3
+United States,Nebraska,502018,429,3
+United States,Nevada,,673,3
+United States,New Hampshire,402647,606,3
+United States,New Jersey,4659179,1576,3
+United States,New York,,9961,3
+United States,North Carolina,1492972,2529,3
+United States,North Dakota,181063,214,3
+United States,Ohio,2977626,2372,3
+United States,Oklahoma,617714,629,3
+United States,Oregon,1585682,2086,3
+United States,Pennsylvania,3856295,4219,3
+United States,Rhode Island,360368,621,3
+United States,South Carolina,693005,977,3
+United States,South Dakota,184618,205,3
+United States,Tennessee,842653,1565,3
+United States,Utah,1060719,715,3
+United States,Vermont,180099,627,3
+United States,Virginia,1540320,2309,3
+United States,Washington,1770955,2249,3
+United States,West Virginia,366149,508,3
+United States,Wisconsin,1085482,1764,3
+United States,Wyoming,138647,237,3
+Canada,Alberta,711075,892,3
+Canada,British Columbia,1639780,1514,3
+Canada,Ontario,2701441,2957,3
+Canada,Saskatchewan,182615,302,3
+Canada,New Brunswick,156723,222,3
+Canada,Nova Scotia,180931,350,3
+Canada,Quebec,1508801,1635,3
+Canada,Nunavut,17020,39,1
+Canada,Newfoundland and Labrador,122287,192,2
+Canada,Manitoba,221767,461,3
+Canada,Yukon,4623,75,2
+New Zealand,Bay of Plenty,85532,52,2
+Samoa,Aiga-i-le-Tai,5722,1,1
+Samoa,Tuamasaga,40250,18,1
+Samoa,Faaasaleleaga,15125,3,1
+Canada,Northwest Territories,31361,37,1
+Guam,Dededo,7343,3,1
+Guam,Mangilao,1498,1,1
+Guam,Tamuning,14444,23,1
+Vanuatu,Sanma,27686,1,1
+New Zealand,West Coast,13324,6,1
+Samoa,Aana,158,1,1
+Fiji,Northern,14004,3,1
+Fiji,Western,54895,7,1
+Micronesia,Pohnpei,22399,2,1
+New Zealand,Tasman,35370,7,1
+Solomon Islands,Temotu,763,1,1
+Papua New Guinea,Manus,4313,3,1
+Guam,Yigo,4053,3,1
+Solomon Islands,Isabel,2631,1,1
+Tonga,Tongatapu,26962,5,1
+New Zealand,Hawke's Bay,23121,45,1
+Northern Mariana Islands,Southern,4228,11,1
+Guam,Barrigada,2500,1,1
+New Zealand,Otago,31162,65,2
+Canada,Prince Edward Island,53970,86,2
+New Zealand,Canterbury,77148,157,2
+New Zealand,Manawatu-Whanganui,87121,55,2
+New Zealand,Auckland,710415,212,3
+Christmas Island,Christmas Island,1089,2,1
+Cocos (Keeling) Islands,Cocos (Keeling) Islands,518,0,1
+Australia,Jervis Bay Territory,196,0,1
+Norfolk Island,Norfolk Island,,0,1
+New Zealand,Chatham Islands,310,1,1
+New Zealand,Gisborne,11077,7,1
+New Zealand,Nelson,3186,51,2
+New Zealand,Taranaki,17462,57,2
+Papua New Guinea,National Capital District,41482,196,2
+American Samoa,Western,4473,1,1
+American Samoa,Manua,143,0,1
+American Samoa,Swains Island,49,0,1
+American Samoa,Rose Island,1,0,1
+Fiji,Eastern,796,0,1
+Fiji,Rotuma,123,0,1
+Guam,Hagatna,912,28,1
+Kiribati,Gilbert Islands,180798,3,1
+Kiribati,Line Islands,3251,0,1
+Kiribati,Phoenix Islands,157,0,1
+Marshall Islands,Kwajalein,5808,0,1
+Marshall Islands,Majuro,3128,5,1
+Micronesia,Chuuk,31626,0,1
+Micronesia,Kosrae,298,0,1
+Micronesia,Yap,2259,0,1
+Nauru,Yaren,7524,3,1
+Palau,Airai,119,0,1
+Palau,Kayangel,429,0,1
+Palau,Melekeok,464,2,1
+Palau,Sonsorol,625,0,1
+Solomon Islands,Makira-Ulawa,162,0,1
+Tonga,Haapai,8102,0,1
+Tonga,Vavau,1215,0,1
+Tonga,Niuas,708,0,1
+Tuvalu,Funafuti,4615,1,1
+Tuvalu,Niutao,1220,0,1
+Vanuatu,Shefa,71928,12,1
+Vanuatu,Malampa,507,0,1
+Cook Islands,Northern,189,0,1
+Cook Islands,Southern,2684,5,1
+Heard Island and McDonald Islands,Heard Island and McDonald Islands,,0,1
+Niue,Niue,1405,1,1
+Northern Mariana Islands,Northern,0,0,1
+Tokelau,Atafu,477,1,1
+Tokelau,Nukunonu,711,0,1
+Tokelau,Fakaofo,1020,0,1
+Argentina,Buenos Aires,8650303,3453,3
+Argentina,Catamarca,195883,762,3
+Argentina,Chaco,363334,135,2
+Argentina,Rio Negro,494773,788,3
+Argentina,Chubut,368296,2337,3
+Argentina,Ciudad Autonoma de Buenos Aires,2120541,1848,3
+Argentina,Cordoba,871099,1245,3
+Argentina,Corrientes,453745,326,3
+Argentina,Entre Rios,514183,140,2
+Argentina,Formosa,217405,332,3
+Argentina,Jujuy,383467,331,3
+Argentina,La Pampa,294298,867,3
+Argentina,La Rioja,84439,51,2
+Argentina,Mendoza,509942,423,3
+Argentina,Misiones,667260,207,3
+Argentina,Neuquen,200940,251,3
+Argentina,Salta,385609,206,3
+Argentina,San Juan,294679,320,3
+Argentina,San Luis,345414,393,3
+Argentina,Santa Cruz,163117,656,3
+Argentina,Santa Fe,1322262,1174,3
+Argentina,Santiago del Estero,342525,177,2
+Argentina,Tierra del Fuego,42815,61,2
+Argentina,Tucuman,603568,858,3
+Bolivia,Beni,206696,145,2
+Bolivia,Chuquisaca,301924,765,3
+Bolivia,Cochabamba,783341,1913,3
+Bolivia,La Paz,,1499,3
+Bolivia,Oruro,,525,3
+Bolivia,Pando,50661,37,1
+Bolivia,Potosi,234810,332,3
+Bolivia,Santa Cruz,1052199,2278,3
+Bolivia,Tarija,186844,259,3
+Brazil,Acre,237731,1161,3
+Brazil,Alagoas,1099057,3466,3
+Brazil,Amapa,561808,1568,3
+Brazil,Amazonas,1845781,5020,3
+Brazil,Bahia,,10048,3
+Brazil,Ceara,2026440,2381,3
+Brazil,Distrito Federal,1013724,1162,3
+Brazil,Espirito Santo,905315,2450,3
+Brazil,Goias,2037644,1235,3
+Brazil,Maranhao,,1304,3
+Brazil,Mato Grosso,,3178,3
+Brazil,Mato Grosso do Sul,836934,2838,3
+Brazil,Minas Gerais,,6561,3
+Brazil,Para,,4430,3
+Brazil,Paraiba,1235235,2464,3
+Brazil,Parana,2664618,2600,3
+Brazil,Pernambuco,,5025,3
+Brazil,Piaui,728958,2043,3
+Brazil,Rio de Janeiro,4856010,23414,3
+Brazil,Rio Grande do Norte,1249581,1597,3
+Brazil,Rio Grande do Sul,3040175,3054,3
+Brazil,Rondonia,408765,1190,3
+Brazil,Roraima,172521,1110,3
+Brazil,Santa Catarina,2138816,1738,3
+Brazil,Sao Paulo,10901699,9142,3
+Brazil,Sergipe,743592,1080,3
+Brazil,Tocantins,564985,950,3
+Chile,Antofagasta,,745,3
+Chile,Araucania,,1821,3
+Chile,Arica y Parinacota,85464,328,3
+Chile,Atacama,47506,364,3
+Chile,Aysen,80476,73,2
+Chile,Biobio,,2307,3
+Chile,Coquimbo,,667,3
+Chile,Los Lagos,,1028,3
+Chile,Los Rios,165642,789,3
+Chile,Magallanes,50796,167,2
+Chile,Maule,,288,3
+Chile,Metropolitana,2621107,3196,3
+Chile,Nuble,134170,56,2
+Chile,O'Higgins,301057,196,2
+Chile,Tarapaca,165481,500,3
+Chile,Valparaiso,,1938,3
+Colombia,Antioquia,,3293,3
+Colombia,Arauca,172056,1722,3
+Colombia,Boyaca,,164,2
+Colombia,Atlantico,728848,1016,3
+Colombia,"Bogota, D.C.",3127115,2377,3
+Colombia,Bolivar,1152901,1899,3
+Colombia,Caldas,567348,379,3
+Colombia,Caqueta,201080,380,3
+Colombia,Casanare,254416,115,2
+Colombia,Cauca,,3462,3
+Colombia,Cesar,762793,588,3
+Colombia,Choco,,1217,3
+Colombia,Cordoba,938017,787,3
+Colombia,Cundinamarca,1168251,389,3
+Colombia,Guainia,25672,17,1
+Colombia,Guaviare,82804,214,3
+Colombia,Huila,,280,3
+Colombia,La Guajira,,1244,3
+Colombia,Magdalena,788732,614,3
+Colombia,Meta,270868,591,3
+Colombia,Narino,,1814,3
+Colombia,Norte de Santander,847505,3199,3
+Colombia,Putumayo,,558,3
+Colombia,Quindio,176100,100,2
+Colombia,Risaralda,482575,344,3
+Colombia,San Andres y Providencia,,19,1
+Colombia,Santander,1353130,1137,3
+Colombia,Sucre,541295,471,3
+Colombia,Tolima,654612,685,3
+Colombia,Valle del Cauca,,2103,3
+Colombia,Vaupes,34194,10,1
+Colombia,Vichada,22541,32,1
+Ecuador,Azuay,496247,533,3
+Ecuador,Bolivar,79425,70,2
+Ecuador,Canar,105292,94,2
+Ecuador,Carchi,102282,98,2
+Ecuador,Chimborazo,182504,323,3
+Ecuador,Cotopaxi,156950,137,2
+Ecuador,El Oro,335540,1179,3
+Ecuador,Esmeraldas,365072,547,3
+Ecuador,Galapagos,28591,17,1
+Ecuador,Guayas,1362537,1373,3
+Ecuador,Imbabura,276555,181,2
+Ecuador,Loja,246519,217,3
+Ecuador,Los Rios,400652,728,3
+Ecuador,Manabi,777757,1336,3
+Ecuador,Morona Santiago,85425,58,2
+Ecuador,Napo,45671,67,2
+Ecuador,Orellana,,64,2
+Ecuador,Pastaza,28561,104,2
+Ecuador,Pichincha,1059557,1364,3
+Ecuador,Santa Elena,190515,316,3
+Ecuador,Santo Domingo de los Tsachilas,47157,198,2
+Ecuador,Sucumbios,88986,92,2
+Ecuador,Tungurahua,311668,426,3
+Ecuador,Zamora Chinchipe,32383,53,2
+Paraguay,Alto Paraguay,7377,116,2
+Paraguay,Alto Parana,244782,635,3
+Paraguay,Amambay,23876,131,2
+Paraguay,Asuncion,339292,1915,3
+Paraguay,Boqueron,25065,38,1
+Paraguay,Caaguazu,157122,388,3
+Paraguay,Caazapa,76597,73,2
+Paraguay,Canindeyu,112535,314,3
+Paraguay,Central,1191610,726,3
+Paraguay,Concepcion,165119,234,3
+Paraguay,Cordillera,161923,166,2
+Paraguay,Guaira,38237,184,2
+Paraguay,Itapua,307463,407,3
+Paraguay,Misiones,64899,340,3
+Paraguay,Neembucu,45122,72,2
+Paraguay,Paraguari,132596,213,3
+Paraguay,Presidente Hayes,45858,128,2
+Paraguay,San Pedro,155300,498,3
+Peru,Amazonas,72335,43,1
+Peru,Ancash,388740,627,3
+Peru,Apurimac,161344,311,3
+Peru,Arequipa,595023,1181,3
+Peru,Ayacucho,208187,235,3
+Peru,Cajamarca,275151,113,2
+Peru,Callao,273399,60,2
+Peru,Cusco,675850,876,3
+Peru,Huancavelica,174399,197,2
+Peru,Huanuco,377979,129,2
+Peru,Ica,366318,462,3
+Peru,Junin,738351,719,3
+Peru,La Libertad,1051864,517,3
+Peru,Lambayeque,697219,545,3
+Peru,Lima,6684127,1705,3
+Peru,Loreto,310907,852,3
+Peru,Madre de Dios,105490,108,2
+Peru,Moquegua,90627,93,2
+Peru,Pasco,125470,30,1
+Peru,Piura,961033,807,3
+Peru,Puno,871239,1815,3
+Peru,San Martin,289780,70,2
+Peru,Tacna,125581,317,3
+Peru,Tumbes,118698,91,2
+Peru,Ucayali,344421,55,2
+Uruguay,Canelones,317034,24,1
+Uruguay,Cerro Largo,43368,5,1
+Uruguay,Colonia,28967,6,1
+Uruguay,Durazno,37825,5,1
+Uruguay,Florida,9629,7,1
+Uruguay,Lavalleja,42126,5,1
+Uruguay,Maldonado,72282,26,1
+Uruguay,Montevideo,576157,371,3
+Uruguay,Paysandu,20561,10,1
+Uruguay,Rivera,53201,7,1
+Uruguay,Rocha,42148,7,1
+Uruguay,Salto,103858,33,1
+Uruguay,San Jose,95009,10,1
+Uruguay,Soriano,11097,4,1
+Uruguay,Tacuarembo,74878,14,1
+Uruguay,Treinta y Tres,21267,3,1
+Venezuela,Amazonas,38915,249,3
+Venezuela,Anzoategui,450570,1061,3
+Venezuela,Apure,158258,479,3
+Venezuela,Aragua,719933,975,3
+Venezuela,Carabobo,1146127,1655,3
+Venezuela,Barinas,315429,553,3
+Venezuela,Sucre,771488,915,3
+Venezuela,Bolivar,,2790,3
+Venezuela,Cojedes,95503,328,3
+Venezuela,Delta Amacuro,75947,430,3
+Venezuela,Dependencias Federales,,8,1
+Venezuela,Distrito Capital,495709,3024,3
+Venezuela,Falcon,431525,1065,3
+Venezuela,Guarico,277627,581,3
+Venezuela,Lara,778062,1766,3
+Venezuela,Merida,211809,800,3
+Venezuela,Miranda,1233905,2915,3
+Venezuela,Monagas,164571,656,3
+Venezuela,Nueva Esparta,390765,406,3
+Venezuela,Portuguesa,441698,649,3
+Venezuela,Tachira,574578,1293,3
+Venezuela,Trujillo,,661,3
+Venezuela,La Guaira,,534,3
+Venezuela,Yaracuy,284529,368,3
+Venezuela,Zulia,2225327,3354,3
+Colombia,Amazonas,29971,56,2
+Uruguay,Artigas,24804,6,1
+Uruguay,Rio Negro,45053,4,1
+Uruguay,Flores,6562,1,1
+Bangladesh,Barisal,3130702,1703,3
+Bangladesh,Dhaka,,12207,3
+Bangladesh,Chittagong,,5501,3
+Bangladesh,Khulna,,3706,3
+Bangladesh,Mymensingh,2805039,972,3
+Bangladesh,Rajshahi,5323561,4061,3
+Bangladesh,Rangpur,4226014,2204,3
+Bangladesh,Sylhet,2485761,1953,3
+India,Andaman and Nicobar Islands,,491,3
+India,Andhra Pradesh,,6105,3
+India,Arunachal Pradesh,332900,986,3
+India,Assam,8001658,11018,3
+India,Nagaland,,754,3
+India,Meghalaya,,990,3
+India,Bihar,22263762,4087,3
+India,Chandigarh,186424,2445,3
+India,Chhattisgarh,3625847,3292,3
+India,Maharashtra,,5907,3
+India,Dadra and Nagar Haveli and Daman and Diu,,5,1
+India,Goa,,922,3
+India,Gujarat,,2627,3
+India,Haryana,,7129,3
+India,Himachal Pradesh,2061063,2420,3
+India,Jammu and Kashmir,,25455,3
+India,Jharkhand,,4469,3
+India,Karnataka,,8043,3
+India,Kerala,,5410,3
+India,Puducherry,,853,3
+India,Ladakh,85927,169,2
+India,Madhya Pradesh,,4233,3
+India,Manipur,,9236,3
+India,Mizoram,,290,3
+India,Delhi,4306196,3504,3
+India,Odisha,,6006,3
+India,Punjab,12542258,18991,3
+India,Rajasthan,8836371,3465,3
+India,Sikkim,184250,130,2
+India,Tamil Nadu,,13189,3
+India,Telangana,,6834,3
+India,Tripura,,3577,3
+India,Uttar Pradesh,,11248,3
+India,Uttarakhand,,2888,3
+India,West Bengal,,10322,3
+Nepal,Bagmati,6583701,7073,3
+Nepal,Madhesh,4416526,5618,3
+Nepal,Koshi,3310135,3430,3
+Nepal,Sudurpashchim,1502755,2290,3
+Nepal,Lumbini,1822963,2922,3
+Nepal,Karnali,347313,1510,3
+Nepal,Gandaki,671398,1816,3
+Pakistan,Azad Jammu and Kashmir,1936196,1703,3
+Pakistan,Balochistan,,11664,3
+Pakistan,Federal Capital Territory,723255,2632,3
+Pakistan,Gilgit-Baltistan,239306,744,3
+Pakistan,Khyber Pakhtunkhwa,,17958,3
+Pakistan,FATA,,3856,3
+Pakistan,Punjab,32408803,17816,3
+Pakistan,Sindh,,51392,3
+Sri Lanka,Central,1281290,836,3
+Sri Lanka,Eastern,,893,3
+Sri Lanka,North Central,437067,421,3
+Sri Lanka,North Western,,457,3
+Sri Lanka,Northern,,1865,3
+Sri Lanka,Sabaragamuwa,697478,274,3
+Sri Lanka,Western,,3112,3
+Sri Lanka,Southern,,650,3
+Sri Lanka,Uva,393645,259,3
+Maldives,Nilandhe Atholhu Dhekunuburi,14596,5,1
+Maldives,Nilandhe Atholhu Uthuruburi,25538,2,1
+Maldives,Mulak Atoll,11130,2,1
+Maldives,Maalhosmadulu Dhekunuburi,37534,15,1
+Maldives,Faadhippolhu,14315,5,1
+Maldives,Miladhunmadulu Dhekunuburi,27495,12,1
+Maldives,Maalhosmadulu Uthuruburi,154691,8,1
+Maldives,Ari Atoll Dhekunuburi,27270,6,1
+Maldives,Ari Atoll Uthuruburi,38431,3,1
+Maldives,Male Atoll,48565,10,1
+Maldives,Male City,128406,226,3
+Maldives,Felidhu Atoll,5910,3,1
+Maldives,Addu City,23037,12,1
+Maldives,Fuvammulah,37903,6,1
+Maldives,Haddhunmathi,19936,12,1
+Maldives,Kolhumadulu,100050,9,1
+Maldives,Thiladhunmathi Dhekunuburi,79732,12,1
+Maldives,Thiladhunmathi Uthuruburi,14562,3,1
+Maldives,Miladhunmadulu Uthuruburi,66905,3,1
+Maldives,Huvadhu Atholhu Uthuruburi,18595,15,1
+Maldives,Huvadhu Atholhu Dhekunuburi,36671,17,1
+Bhutan,Bumthang,20111,0,1
+Bhutan,Chhukha,47134,2,1
+Bhutan,Dagana,9586,0,1
+Bhutan,Gasa,471,1,1
+Bhutan,Haa,7290,0,1
+Bhutan,Lhuentse,3487,0,1
+Bhutan,Monggar,6192,0,1
+Bhutan,Paro,13327,0,1
+Bhutan,Pemagatshel,3518,0,1
+Bhutan,Punakha,1966,0,1
+Bhutan,Samdrup Jongkhar,22096,1,1
+Bhutan,Samtse,9820,2,1
+Bhutan,Sarpang,28877,0,1
+Bhutan,Thimphu,18269,4,1
+Bhutan,Trashigang,22734,0,1
+Bhutan,Trashiyangtse,1626,0,1
+Bhutan,Trongsa,837,0,1
+Bhutan,Tsirang,3034,0,1
+Bhutan,Wangduephodrang,17879,0,1
+Bhutan,Zhemgang,10277,1,1
+Afghanistan,Badakhshan,521282,1367,3
+Afghanistan,Badghis,308681,1747,3
+Afghanistan,Baghlan,487726,2035,3
+Afghanistan,Balkh,983040,2580,3
+Afghanistan,Bamyan,43061,118,2
+Afghanistan,Daykundi,59046,364,3
+Afghanistan,Farah,259757,1986,3
+Afghanistan,Faryab,,2861,3
+Afghanistan,Ghazni,508320,4740,3
+Afghanistan,Ghor,197513,888,3
+Afghanistan,Helmand,367147,6239,3
+Afghanistan,Herat,930271,2567,3
+Afghanistan,Jowzjan,194260,1041,3
+Afghanistan,Kabul,2921012,3218,3
+Afghanistan,Kandahar,572405,4943,3
+Afghanistan,Kapisa,331674,1205,3
+Afghanistan,Khost,381976,1626,3
+Afghanistan,Kunar,460851,1891,3
+Afghanistan,Kunduz,,2435,3
+Afghanistan,Laghman,444274,1425,3
+Afghanistan,Logar,349079,2111,3
+Afghanistan,Nangarhar,998636,5435,3
+Afghanistan,Nimruz,,695,3
+Afghanistan,Nuristan,13882,386,3
+Afghanistan,Paktia,555310,2217,3
+Afghanistan,Paktika,219016,1419,3
+Afghanistan,Panjshir,88852,585,3
+Afghanistan,Parwan,445185,947,3
+Afghanistan,Samangan,179748,420,3
+Afghanistan,Sar-e Pol,303727,627,3
+Afghanistan,Takhar,,1598,3
+Afghanistan,Urozgan,172422,2163,3
+Afghanistan,Wardak,321938,2231,3
+Afghanistan,Zabul,122289,2211,3
+India,Lakshadweep,18524,12,1
+Cambodia,Banteay Meanchey,205800,76,2
+Cambodia,Kampong Cham,149233,51,2
+Cambodia,Kampong Thom,49606,22,1
+Cambodia,Kampot,19350,16,1
+Cambodia,Koh Kong,26644,62,2
+Cambodia,Oddar Meanchey,259094,50,2
+Cambodia,Pailin,39717,15,1
+Cambodia,Preah Sihanouk,64734,58,2
+Cambodia,Preah Vihear,111639,79,2
+Cambodia,Prey Veng,23958,18,1
+Cambodia,Pursat,45989,44,1
+Cambodia,Ratanak Kiri,40551,23,1
+Cambodia,Siemreap,122494,64,2
+Cambodia,Stung Treng,1482,13,1
+Cambodia,Svay Rieng,59653,53,2
+Cambodia,Takeo,85765,29,1
+Cambodia,Tboung Khmum,20516,20,1
+China,Chongqing,2766560,292,3
+China,Hong Kong,4408336,3654,3
+China,Macao,130914,29,1
+Indonesia,Jakarta,760940,2791,3
+Laos,Bokeo,187,2,1
+Laos,Bolikhamsai,24077,0,1
+Laos,Champasak,50432,4,1
+Laos,Luang Prabang,2820,5,1
+Laos,Salavan,31728,1,1
+Laos,Savannakhet,22025,2,1
+Laos,Sekong,7968,2,1
+Laos,Vientiane Province,4339,4,1
+Laos,Xaisomboun,7250,13,1
+Laos,Xiangkhouang,54323,3,1
+Malaysia,Federal Territory of Kuala Lumpur,765107,464,3
+Malaysia,Federal Territory of Labuan,26067,4,1
+Malaysia,Federal Territory of Putrajaya,5190,80,2
+Malaysia,Kelantan,,29,1
+Malaysia,Penang,639401,97,2
+Malaysia,Perlis,136445,5,1
+Philippines,National Capital Region,6357745,3677,3
+Thailand,Amnat Charoen,12367,6,1
+Thailand,Ang Thong,42518,8,1
+Thailand,Buri Ram,104755,36,1
+Thailand,Chachoengsao,71840,15,1
+Thailand,Chai Nat,30677,12,1
+Thailand,Chaiyaphum,82824,17,1
+Thailand,Chanthaburi,95054,22,1
+Thailand,Chiang Rai,259168,115,2
+Thailand,Chumphon,65805,21,1
+Thailand,Kamphaeng Phet,134231,16,1
+Thailand,Kanchanaburi,144476,32,1
+Thailand,Krabi,68968,56,2
+Thailand,Loei,53083,39,1
+Thailand,Lop Buri,84017,15,1
+Thailand,Maha Sarakham,37959,20,1
+Thailand,Nakhon Nayok,32608,8,1
+Thailand,Nakhon Pathom,305398,46,1
+Thailand,Nakhon Phanom,54840,20,1
+Thailand,Nakhon Si Thammarat,262261,89,2
+Thailand,Nan,36758,10,1
+Thailand,Nong Bua Lam Phu,7592,8,1
+Thailand,Nong Khai,72812,11,1
+Thailand,Nonthaburi,985200,127,2
+Thailand,Phangnga,60289,21,1
+Thailand,Phayao,47997,17,1
+Thailand,Phetchabun,100934,28,1
+Thailand,Phichit,31406,17,1
+Thailand,Phra Nakhon Si Ayutthaya,189227,53,2
+Thailand,Phrae,48298,15,1
+Thailand,Prachin Buri,131184,30,1
+Thailand,Prachuap Khiri Khan,79135,36,1
+Thailand,Ranong,89050,8,1
+Thailand,Ratchaburi,171507,36,1
+Thailand,Rayong,285918,42,1
+Thailand,Sa Kaeo,83592,39,1
+Thailand,Sakon Nakhon,42425,15,1
+Thailand,Samut Prakan,1112603,64,2
+Thailand,Samut Sakhon,179533,19,1
+Thailand,Samut Songkhram,14744,8,1
+Thailand,Saraburi,103369,8,1
+Thailand,Satun,81175,32,1
+Thailand,Sing Buri,24096,8,1
+Thailand,Si Sa Ket,90043,69,2
+Thailand,Sukhothai,75592,13,1
+Thailand,Suphan Buri,83032,12,1
+Thailand,Surin,98111,53,2
+Thailand,Trang,111394,47,1
+Thailand,Trat,72222,19,1
+Thailand,Uttaradit,33478,10,1
+Thailand,Yasothon,33715,13,1
+Vietnam,An Giang,178006,6,1
+Vietnam,Ba Ria-Vung Tau,,10,1
+Vietnam,Bac Giang,49483,4,1
+Vietnam,Bac Kan,127,1,1
+Vietnam,Bac Lieu,130626,4,1
+Vietnam,Bac Ninh,100690,2,1
+Vietnam,Ben Tre,112295,3,1
+Vietnam,Binh Dinh,186851,6,1
+Vietnam,Binh Duong,159340,9,1
+Vietnam,Binh Phuoc,24685,2,1
+Vietnam,Binh Thuan,95204,9,1
+Vietnam,Can Tho,269794,2,1
+Vietnam,Da Nang,,16,1
+Vietnam,Dak Nong,72385,4,1
+Vietnam,Dien Bien,103730,10,1
+Vietnam,Dong Nai,172379,14,1
+Vietnam,Dong Thap,26391,2,1
+Vietnam,Gia Lai,51807,3,1
+Vietnam,Ha Giang,8591,1,1
+Vietnam,Ha Nam,135736,3,1
+Vietnam,Ha Tinh,37437,25,1
+Vietnam,Hai Duong,186427,9,1
+Vietnam,Hau Giang,19541,1,1
+Vietnam,Hoa Binh,62275,8,1
+Vietnam,Hung Yen,127466,5,1
+Vietnam,Khanh Hoa,369647,16,1
+Vietnam,Kien Giang,3507,2,1
+Vietnam,Kon Tum,35082,1,1
+Vietnam,Lam Dong,102570,6,1
+Vietnam,Lang Son,101220,2,1
+Vietnam,Lao Cai,7653,1,1
+Vietnam,Nam Dinh,10435,1,1
+Vietnam,Ninh Binh,76159,1,1
+Vietnam,Ninh Thuan,27489,3,1
+Vietnam,Phu Tho,3356,2,1
+Vietnam,Phu Yen,10272,4,1
+Vietnam,Quang Binh,40672,11,1
+Vietnam,Quang Nam,80677,16,1
+Vietnam,Quang Ngai,203791,9,1
+Vietnam,Quang Tri,,5,1
+Vietnam,Soc Trang,20710,1,1
+Vietnam,Thai Nguyen,91325,7,1
+Vietnam,Thanh Hoa,130717,23,1
+Vietnam,Thua Thien Hue,258380,10,1
+Vietnam,Tien Giang,50965,3,1
+Vietnam,Tra Vinh,105997,0,1
+Vietnam,Tuyen Quang,11624,2,1
+Vietnam,Vinh Long,42178,5,1
+Vietnam,Vinh Phuc,126824,1,1
+Vietnam,Yen Bai,33740,2,1
+Thailand,Bueng Kan,6782,7,1
+Singapore,Central Singapore,9067,34,1
+Brunei,Brunei-Muara,8399,2,1
+Brunei,Belait,9567,0,1
+Brunei,Tutong,12370,0,1
+Brunei,Temburong,1793,0,1
+East Timor,Bobonaro,25638,1,1
+East Timor,Baucau,37590,1,1
+East Timor,Manatuto,15110,0,1
+East Timor,Lautem,23894,1,1
+East Timor,Ainaro,18775,0,1
+East Timor,Manufahi,12684,0,1
+East Timor,Ermera,32115,1,1
+East Timor,Oecusse,18885,1,1
+East Timor,Aileu,14448,0,1
+Vietnam,Long An,60316,1,1
+Thailand,Uthai Thani,8164,1,1
+Andorra,Andorra la Vella,45255,28,1
+Andorra,Encamp,14479,0,1
+Austria,Burgenland,82726,33,1
+Austria,Karnten,45608,83,2
+Austria,Niederosterreich,395999,199,2
+Austria,Oberosterreich,339124,226,3
+Austria,Salzburg,239593,153,2
+Austria,Steiermark,344714,173,2
+Austria,Tirol,236072,181,2
+Austria,Vorarlberg,143872,114,2
+Austria,Wien,1277638,962,3
+Bailiwick of Guernsey,Guernsey,,13,1
+Bailiwick of Jersey,Jersey,43315,16,1
+Belgium,Brussels,940816,1556,3
+Belgium,Vlaanderen,3090772,1896,3
+Belgium,Wallonie,1595700,1140,3
+France,Auvergne-Rhone-Alpes,3272500,4727,3
+France,Ile-de-France,8442689,3885,3
+France,Bourgogne-Franche-Comte,857768,2062,3
+France,Bretagne,1342130,4379,3
+France,Occitanie,1962542,5401,3
+France,Centre-Val de Loire,905292,1450,3
+France,Provence-Alpes-Cote d'Azur,2211754,3112,3
+France,Pays de la Loire,1230444,2340,3
+France,Corse,,1038,3
+France,Grand Est,1882468,2338,3
+France,Hauts-de-France,2634836,2540,3
+France,Normandie,1562805,2768,3
+France,Nouvelle-Aquitaine,2132848,5478,3
+Germany,Baden-Wurttemberg,3200249,2625,3
+Germany,Bayern,4070704,3027,3
+Germany,Berlin,840008,2553,3
+Germany,Brandenburg,826028,902,3
+Germany,Bremen,114863,326,3
+Germany,Hamburg,388826,913,3
+Germany,Hessen,1729244,1209,3
+Germany,Nordrhein-Westfalen,5755726,4121,3
+Germany,Mecklenburg-Vorpommern,572474,1661,3
+Germany,Niedersachsen,2528285,2232,3
+Germany,Rheinland-Pfalz,1085698,818,3
+Germany,Saarland,444413,419,3
+Germany,Sachsen,1152651,2216,3
+Germany,Sachsen-Anhalt,,734,3
+Germany,Schleswig-Holstein,897490,888,3
+Germany,Thuringen,708197,883,3
+Gibraltar,Gibraltar,6925,4,1
+Ireland,Mayo,32003,54,2
+Ireland,Galway,49560,101,2
+Ireland,Roscommon,10829,11,1
+Ireland,Leitrim,17511,22,1
+Ireland,Sligo,35990,41,1
+Ireland,Laois,34780,20,1
+Ireland,Wicklow,136996,28,1
+Ireland,Westmeath,18593,20,1
+Ireland,Carlow,24152,19,1
+Ireland,Dublin,595157,666,3
+Ireland,Meath,175665,29,1
+Ireland,Louth,46338,45,1
+Ireland,Longford,12913,18,1
+Ireland,Offaly,39916,14,1
+Ireland,Wexford,43816,31,1
+Ireland,Kildare,89531,31,1
+Ireland,Kilkenny,33171,21,1
+Ireland,Cork,164715,262,3
+Ireland,Clare,17941,41,1
+Ireland,Kerry,29189,39,1
+Ireland,Tipperary,48010,52,2
+Ireland,Waterford City and County,61541,20,1
+Ireland,Limerick City and County,21233,75,2
+Ireland,Cavan,22921,23,1
+Ireland,Donegal,49450,43,1
+Ireland,Monaghan,14763,12,1
+Isle of Man,Isle of Man,23995,14,1
+Italy,Abruzzo,415459,552,3
+Italy,Basilicata,254662,364,3
+Italy,Calabria,869468,867,3
+Italy,Campania,3055689,1809,3
+Italy,Emilia-Romagna,,2515,3
+Italy,Friuli-Venezia Giulia,560377,668,3
+Italy,Lazio,3032230,2380,3
+Italy,Liguria,745191,1045,3
+Italy,Lombardia,5227351,3680,3
+Italy,Marche,871915,734,3
+Italy,Molise,105226,212,3
+Italy,Piemonte,1549755,1775,3
+Italy,Puglia,2559602,1751,3
+Italy,Sardegna,,909,3
+Italy,Sicilia,,2700,3
+Italy,Toscana,1447953,2068,3
+Italy,Trentino-Alto Adige,344099,506,3
+Italy,Umbria,302331,530,3
+Italy,Valle d'Aosta,71092,101,2
+Italy,Veneto,2284499,2345,3
+Liechtenstein,Vaduz,4508,10,1
+Luxembourg,Capellen,6696,3,1
+Luxembourg,Echternach,9869,1,1
+Luxembourg,Esch-sur-Alzette,59296,25,1
+Luxembourg,Grevenmacher,20052,5,1
+Luxembourg,Luxembourg,57651,177,2
+Luxembourg,Remich,13258,4,1
+Malta,Central,94417,48,1
+Malta,Gozo,36838,22,1
+Malta,Southern,119341,21,1
+Malta,South Eastern,98399,256,3
+Malta,Northern,117474,42,1
+Monaco,Monaco,61151,19,1
+Netherlands,Drenthe,154294,106,2
+Netherlands,Flevoland,138574,47,1
+Netherlands,Friesland,,198,2
+Netherlands,Gelderland,895444,588,3
+Netherlands,Groningen,186272,289,3
+Netherlands,Limburg,487008,198,2
+Netherlands,Noord-Brabant,883658,508,3
+Netherlands,Noord-Holland,,964,3
+Netherlands,Utrecht,681891,445,3
+Netherlands,Overijssel,488698,303,3
+Netherlands,Zeeland,135855,88,2
+Netherlands,Zuid-Holland,1400112,1201,3
+Portugal,Aveiro,198925,73,2
+Portugal,Azores,20002,37,1
+Portugal,Beja,34172,36,1
+Portugal,Braga,202813,126,2
+Portugal,Braganca,23921,24,1
+Portugal,Castelo Branco,73052,46,1
+Portugal,Coimbra,53939,169,2
+Portugal,Evora,28976,39,1
+Portugal,Faro,307461,133,2
+Portugal,Guarda,34015,31,1
+Portugal,Leiria,132688,62,2
+Portugal,Lisboa,1362078,1149,3
+Portugal,Madeira,57328,44,1
+Portugal,Portalegre,10315,16,1
+Portugal,Porto,628907,401,3
+Portugal,Santarem,123313,55,2
+Portugal,Setubal,479414,117,2
+Portugal,Viana do Castelo,58390,41,1
+Portugal,Vila Real,26965,41,1
+Portugal,Viseu,40415,47,1
+San Marino,Borgo Maggiore,21787,34,1
+San Marino,Serravalle,4395,1,1
+Spain,Andalucia,3442377,3142,3
+Spain,Aragon,707334,786,3
+Spain,Canarias,,730,3
+Spain,Cantabria,216019,430,3
+Spain,Castilla y Leon,700041,1659,3
+Spain,Castilla-La Mancha,637110,553,3
+Spain,Cataluna,4548089,2563,3
+Spain,Ceuta,43855,155,2
+Spain,Melilla,215928,121,2
+Spain,Madrid,3138040,1561,3
+Spain,Navarra,324570,379,3
+Spain,Valencia,2512225,1534,3
+Spain,Extremadura,388520,677,3
+Spain,Galicia,1259738,2937,3
+Spain,Islas Baleares,434764,823,3
+Spain,La Rioja,173992,334,3
+Spain,Pais Vasco,1403012,2012,3
+Spain,Asturias,388970,913,3
+Spain,Murcia,618510,857,3
+Switzerland,Basel-Stadt,250293,62,2
+Switzerland,Bern,52375,211,3
+Switzerland,Fribourg,69526,25,1
+Switzerland,Geneve,250075,294,3
+Switzerland,Graubunden,17438,20,1
+Switzerland,Jura,23530,17,1
+Switzerland,Luzern,35805,22,1
+Switzerland,Neuchatel,54068,37,1
+Switzerland,Schaffhausen,66005,5,1
+Switzerland,Schwyz,15394,1,1
+Switzerland,Solothurn,7505,4,1
+Switzerland,St. Gallen,108507,22,1
+Switzerland,Ticino,109095,24,1
+Switzerland,Thurgau,46433,4,1
+Switzerland,Uri,12883,4,1
+Switzerland,Valais,96251,17,1
+Switzerland,Vaud,465561,210,3
+Switzerland,Zurich,392942,139,2
+United Kingdom,England,21310424,6562,3
+United Kingdom,Northern Ireland,1014010,814,3
+United Kingdom,Scotland,2135843,995,3
+United Kingdom,Wales,1327299,512,3
+Andorra,Canillo,4379,1,1
+Switzerland,Aargau,126770,18,1
+Switzerland,Basel-Landschaft,8186,2,1
+Switzerland,Appenzell Ausserrhoden,38439,2,1
+Switzerland,Zug,69079,2,1
+Liechtenstein,Ruggell,7396,2,1
+Switzerland,Glarus,3432,1,1
+Liechtenstein,Eschen,2010,1,1
+Liechtenstein,Mauren,4017,1,1
+Liechtenstein,Triesen,1199,1,1
+San Marino,Acquaviva,3712,1,1
+Andorra,Ordino,14424,1,1
+Switzerland,Obwalden,424,1,1
+Reunion,Saint-Denis,193604,374,3
+Reunion,Saint-Pierre,166232,185,2
+Reunion,Saint-Paul,34864,96,2
+Mayotte,Bandraboua,50377,23,1
+Mayotte,Acoua,4531,8,1
+Mayotte,Bandrele,33200,16,1
+Mayotte,Boueni,,7,1
+Mayotte,Mamoudzou,140513,230,3
+Mayotte,Chiconi,6166,8,1
+Mayotte,Chirongui,17795,19,1
+Mayotte,Tsingoni,23833,23,1
+Mayotte,Dembeni,21611,25,1
+Mayotte,Dzaoudzi,24363,7,1
+Mayotte,Mtsamboro,24588,5,1
+Mayotte,Ouangani,26321,12,1
+Mayotte,Koungou,87852,43,1
+Mayotte,Kani Keli,18235,4,1
+Mayotte,Mtsangamouji,18189,4,1
+Mayotte,Pamandzi,25111,17,1
+Mayotte,Sada,65567,9,1
+Reunion,Saint-Benoit,72636,68,2
+"Saint Helena, Ascension and Tristan da Cunha",Ascension,5463,0,1
+"Saint Helena, Ascension and Tristan da Cunha",Saint Helena,,2,1
+"Saint Helena, Ascension and Tristan da Cunha",Tristan da Cunha,1103,0,1
+Anguilla,Anguilla,4306,6,1
+Aruba,Aruba,75674,50,2
+British Virgin Islands,British Virgin Islands,7195,11,1
+Caribbean Netherlands,Bonaire,21120,23,1
+Caribbean Netherlands,Saba,975,3,1
+Caribbean Netherlands,Sint Eustatius,5974,8,1
+Cayman Islands,George Town,3566,30,1
+Curacao,Curacao,58475,58,2
+Falkland Islands,Falkland Islands,3246,3,1
+French Guiana,Cayenne,,202,3
+French Guiana,Saint-Laurent-du-Maroni,221027,81,2
+Guadeloupe,Bas-Terre,127076,270,3
+Guadeloupe,Pointe-a-Pitre,105408,305,3
+Martinique,Fort-de-France,82319,345,3
+Martinique,La Trinite,50240,54,2
+Martinique,Le Marin,65563,80,2
+Martinique,Saint-Pierre,30072,21,1
+Montserrat,Saint Peter,2568,2,1
+Saint-Martin,Saint-Martin,34857,59,2
+Sint Maarten,Sint Maarten,43228,31,1
+Turks and Caicos Islands,Grand Turk,,5,1
+Turks and Caicos Islands,Providenciales and West Caicos,,38,1
+Saint-Barthelemy,Saint-Barthelemy,695,6,1
+Cayman Islands,North Side,3283,1,1
+New Caledonia,North,92326,66,2
+French Polynesia,Leeward Islands,84253,14,1
+French Polynesia,Tuamotu-Gambier,18193,6,1
+New Caledonia,South,,255,3
+French Polynesia,Windward Islands,,125,2
+New Caledonia,Layalty Islands,3840,15,1
+Wallis and Futuna,Wallis Islands,42988,24,1
+Bermuda,Devonshire,2287,1,1
+Bermuda,Saint George,3370,2,1
+Bermuda,Warwick,3165,2,1
+French Polynesia,Marquesas Islands,6436,9,1
+French Polynesia,Austral Islands,2061,2,1
+Bermuda,Pembroke,8114,22,1
+Wallis and Futuna,Hoorn Islands,26796,3,1
+Bermuda,Sandys,4362,1,1
+Saint Pierre and Miquelon,Saint-Pierre,4196,15,1
+Saint Pierre and Miquelon,Miquelon-Langlade,313,1,1
+Pitcairn,Pitcairn Island,,0,1
