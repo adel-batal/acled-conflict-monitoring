@@ -72,6 +72,7 @@ Register a normal user
   -d '{"email":"user1@example.com","password":"password123"}'
 
 Login as normal user → store JWT
+```
 TOKEN=$(curl -s -X POST http://localhost:8000/login \
   -H "Content-Type: application/json" \
   -d '{"email":"user1@example.com","password":"password123"}' \
@@ -79,26 +80,35 @@ TOKEN=$(curl -s -X POST http://localhost:8000/login \
 
 echo "USER TOKEN:"
 echo "$TOKEN"
+```
 
 List conflict data (paginated by DISTINCT country)
+```
 curl -i "http://localhost:8000/conflictdata?page=1&per_page=20" \
   -H "Authorization: Bearer $TOKEN"
-
+```
 Get conflict data for Algeria
+```
 curl -i http://localhost:8000/conflictdata/algeria \
   -H "Authorization: Bearer $TOKEN"
+```
 
 Get Algeria risk score (first call → 202)
+```
 curl -i http://localhost:8000/conflictdata/algeria/riskscore \
   -H "Authorization: Bearer $TOKEN"
+```
 
 Submit feedback for Algeria / Algiers
+```
 curl -i -X POST http://localhost:8000/conflictdata/algiers/userfeedback \
   -H "Authorization: Bearer $TOKEN" \
   -H "Content-Type: application/json" \
   -d '{"country":"algeria","feedback":"Hello again, friend of a friend"}'
+```
 
 Login as admin → store admin JWT
+```
 ADMIN_TOKEN=$(curl -s -X POST http://localhost:8000/login \
   -H "Content-Type: application/json" \
   -d '{"email":"admin@example.com","password":"adminpass123"}' \
@@ -106,12 +116,15 @@ ADMIN_TOKEN=$(curl -s -X POST http://localhost:8000/login \
 
 echo "ADMIN TOKEN:"
 echo "$ADMIN_TOKEN"
+```
 
 Delete conflict data (admin-only)
+```
 curl -i -X DELETE http://localhost:8000/conflictdata \
   -H "Authorization: Bearer $ADMIN_TOKEN" \
   -H "Content-Type: application/json" \
   -d '{"country":"algeria","admin1":"algiers"}'
+```
 
 ## Notes: Decisions and Tradeoffs
 
