@@ -54,35 +54,6 @@ docker compose up --build
 
 This removes all persisted database data and re-imports the CSV on startup.
 
-### 7. Running without Docker (optional)
-
-If Docker is not available, the API can also be run locally with:
-
-* Python 3.12
-* PostgreSQL 16+
-* Install dependencies:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
-* Set required env vars:
-
-  ```bash
-  export DATABASE_URL=postgresql+psycopg://user:pass@localhost:5432/dbname
-  export JWT_SECRET=your-secret-key
-  ```
-* Run migrations:
-
-  ```bash
-  alembic upgrade head
-  ```
-* Start the server:
-
-  ```bash
-  uvicorn app.main:app --reload --port 8000
-  ```
-
----
 ### Notes
 
 * All endpoints (except `/register` and `/login`) require a JWT in the `Authorization` header:
