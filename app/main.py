@@ -22,15 +22,17 @@ from app.auth.security import hash_password, verify_password
 from app.auth.admin_seed import seed_admin_if_configured
 from app.auth.deps import get_current_user, require_admin
 
-from app.schemas.auth import LoginIn, RegisterIn, TokenOut
+from app.schemas.auth import LoginIn, RegisterIn, TokenOut, UnauthorizedOut
 from app.schemas.conflict import (
     ConflictDataPageOut,
     ConflictCountryGroupOut,
     ConflictRowOut,
 )
-from app.schemas.risk import RiskScoreOut
+from app.schemas.risk import RiskScoreOut, CalculatingOut
 from app.schemas.feedback import FeedbackIn, FeedbackOut
-from app.schemas.delete_conflict import ConflictDeleteIn
+from app.schemas.delete_conflict import ConflictDeleteIn, DeleteOut
+from app.schemas.errors import NotFoundOut, UnprocessableEntityOut, ConflictOut
+from app.schemas.meta import HealthOut
 
 from app.models import User, ConflictData, UserFeedback
 
@@ -51,10 +53,19 @@ from app.risk_cache import (
 from app.risk_compute import compute_country_risk_score
 from app.core.normalize import norm
 
+from fastapi.security import HTTPBearer
+
+
 
 log = logging.getLogger("app")
 
-app = FastAPI(title="ACLED Take-home API", version="0.1.0")
+app = FastAPI(title="ACLED conflicts API", version="0.1.0")
+
+bearer_scheme = HTTPBearer(
+    bearerFormat="JWT",
+    description="JWT Authorization header using the Bearer scheme. Example: 'Authorization: Bearer <token>'",
+)
+
 
 
 @app.on_event("startup")
@@ -69,10 +80,9 @@ def startup() -> None:
         db.close()
 
 
-
-@app.get("/health", tags=["meta"])
-def health() -> JSONResponse:
-    return JSONResponse({"status": "ok"})
+@app.get("/health", tags=["meta"], response_model=HealthOut)
+def health() -> HealthOut:
+    return HealthOut(status="ok")
 
 
 log = logging.getLogger("app.auth")
@@ -82,7 +92,12 @@ def _get_user_by_email(db: Session, email: str) -> User | None:
     return db.execute(select(User).where(User.email == email)).scalar_one_or_none()
 
 
-@app.post("/register", response_model=TokenOut, tags=["auth"])
+@app.post(
+    "/register",
+    response_model=TokenOut,
+    responses={409: {"model": ConflictOut}},
+    tags=["auth"],
+)
 def register(payload: RegisterIn) -> TokenOut:
     db = SessionLocal()
     try:
@@ -100,7 +115,12 @@ def register(payload: RegisterIn) -> TokenOut:
         db.close()
 
 
-@app.post("/login", response_model=TokenOut, tags=["auth"])
+@app.post(
+    "/login",
+    response_model=TokenOut,
+    responses={401: {"model": UnauthorizedOut}},
+    tags=["auth"],
+)
 def login(payload: LoginIn) -> TokenOut:
     db = SessionLocal()
     try:
@@ -113,7 +133,14 @@ def login(payload: LoginIn) -> TokenOut:
     finally:
         db.close()
 
-@app.get("/conflictdata", response_model=ConflictDataPageOut, tags=["conflictdata"])
+
+@app.get(
+    "/conflictdata",
+    response_model=ConflictDataPageOut,
+    responses={401: {"model": UnauthorizedOut}},
+    tags=["conflictdata"],
+    dependencies=[Depends(bearer_scheme)],
+)
 def list_conflictdata(
     page: int = Query(1, ge=1),
     per_page: int = Query(20, ge=1, le=100),
@@ -150,7 +177,17 @@ def list_conflictdata(
 
     return ConflictDataPageOut(page=page, per_page=per_page, countries=out)
 
-@app.get("/conflictdata/{country}", response_model=list[ConflictRowOut], tags=["conflictdata"])
+
+@app.get(
+    "/conflictdata/{country}",
+    response_model=list[ConflictRowOut],
+    responses={
+        401: {"model": UnauthorizedOut},
+        404: {"model": NotFoundOut},
+    },
+    tags=["conflictdata"],
+    dependencies=[Depends(bearer_scheme)],
+)
 def get_conflictdata_country(
     country: str,
     _: User = Depends(get_current_user),
@@ -171,7 +208,17 @@ def get_conflictdata_country(
     ]
 
 
-@app.get("/conflictdata/{country}/riskscore", response_model=RiskScoreOut, tags=["conflictdata"])
+@app.get(
+    "/conflictdata/{country}/riskscore",
+    response_model=RiskScoreOut,
+    responses={
+        202: {"model": CalculatingOut},
+        401: {"model": UnauthorizedOut},
+        404: {"model": NotFoundOut},
+    },
+    tags=["conflictdata"],
+    dependencies=[Depends(bearer_scheme)],
+)
 def get_country_riskscore(
     country: str,
     background: BackgroundTasks,
@@ -202,7 +249,13 @@ def get_country_riskscore(
 @app.post(
     "/conflictdata/{admin1}/userfeedback",
     response_model=FeedbackOut,
+    responses={
+        401: {"model": UnauthorizedOut},
+        404: {"model": NotFoundOut},
+        422: {"model": UnprocessableEntityOut},
+    },
     tags=["feedback"],
+    dependencies=[Depends(bearer_scheme)],
 )
 def create_user_feedback(
     admin1: str,
@@ -244,13 +297,23 @@ def create_user_feedback(
 
     return FeedbackOut(id=fb.id, conflict_data_id=fb.conflict_data_id)
 
-@app.delete("/conflictdata", tags=["conflictdata"])
+
+@app.delete(
+    "/conflictdata",
+    tags=["conflictdata"],
+    response_model=DeleteOut,
+    responses={
+        401: {"model": UnauthorizedOut},
+        404: {"model": NotFoundOut},
+    },
+    dependencies=[Depends(bearer_scheme)],
+)
 def delete_conflictdata(
     payload: ConflictDeleteIn,
     background: BackgroundTasks,
     _: User = Depends(require_admin),
     db: Session = Depends(get_db),
-):
+) -> DeleteOut:
     country_norm = norm(payload.country)
     admin1_norm = norm(payload.admin1)
 
@@ -285,4 +348,4 @@ def delete_conflictdata(
         extra={"country_norm": country_norm, "admin1_norm": admin1_norm},
     )
 
-    return JSONResponse(status_code=200, content={"detail": "deleted"})
+    return DeleteOut(detail="deleted")
