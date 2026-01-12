@@ -126,7 +126,7 @@ This implementation was completed under a strict time budget. Design choices int
     
 - **Background jobs:**  
     Risk score computation is implemented in-process using FastAPI background tasks to satisfy asynchronous computation requirements under time constraints.  
-    _Tradeoff:_ this is not durable across restarts or horizontally scalable; a Redis/RQ-based worker model is documented as future work.
+    _Tradeoff:_ this is not durable across restarts or horizontally scalable; a Redis/RQ-based worker model should be used for production.
     
 - **Normalization:**  
     Normalized fields (`*_norm`) apply trim, collapsed internal whitespace, and lowercase for deterministic lookup and uniqueness, while raw fields preserve original dataset values.
