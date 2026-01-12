@@ -111,7 +111,7 @@ Delete conflict data (admin-only)
 curl -i -X DELETE http://localhost:8000/conflictdata \
   -H "Authorization: Bearer $ADMIN_TOKEN" \
   -H "Content-Type: application/json" \
-  -d '{"country":"Algeria","admin1":"Algiers"}'
+  -d '{"country":"algeria","admin1":"algiers"}'
 
 ## Notes: Decisions and Tradeoffs
 
