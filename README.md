@@ -6,8 +6,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/adel-batal/acled-conflict-monitoring
+cd acled-conflict-monitoring
 ```
 
 ### 2. Configure environment variables
