@@ -66,11 +66,11 @@ This removes all persisted database data and re-imports the CSV on startup.
 ## Example requests for each endpoint
 
 Register a normal user
-
-``curl -i -X POST http://localhost:8000/register \
+```
+curl -i -X POST http://localhost:8000/register \
   -H "Content-Type: application/json" \
   -d '{"email":"user1@example.com","password":"password123"}'
-
+```
 Login as normal user → store JWT
 ```
 TOKEN=$(curl -s -X POST http://localhost:8000/login \
